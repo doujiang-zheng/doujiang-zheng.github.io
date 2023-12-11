@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Shunyu Liu"
-description              : &description "Ph.D. Student @ ZJU"
-url                      : https://liushunyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Tongya Zheng"
+description              : &description "Postdoc @ HZCU"
+url                      : https://tongyazheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "liushunyu/liushunyu.github.io"
+repository               : "tongyazheng/tongyazheng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shunyu Liu / 刘顺宇"
-  avatar           : "liushunyu.jpg"
-  bio              : "Ph.D. Student @ ZJU"
-  location         : "Zhejiang University"
+  name             : "Tongya Zheng / 郑铜亚"
+  avatar           : "tongyazheng.jpg"
+  bio              : "Postdoc @ HZCU"
+  location         : "Hangzhou City University"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=4U-X6d4AAAAJ&hl=en"
-  email            : "liushunyu@zju.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=Ko2OtGgAAAAJ&hl=en"
+  email            : "doujiang_zheng@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "liushunyu"
+  github           : "tongyazheng"
   google_plus      :
   keybase          :
   instagram        :

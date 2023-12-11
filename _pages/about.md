@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shunyu Liu / 刘顺宇"
+title: "Tongya Zheng / 郑铜亚"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,23 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-**Ph.D. Student** \| **Visual Intelligence and Pattern Analysis Lab** \| **Zhejiang University**
+**Postdoc** \| **Big Graph Center** \| **Hangzhou City University**
 
 <br>
 
 News
 ======
 
-- Sep. 2023: One paper was accepted by <a href="https://nips.cc/Conferences/2023" target="_blank" style="text-decoration: none">NeurIPS 2023</a>.
-- Jul. 2023: One paper was accepted by <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" target="_blank" style="text-decoration: none">Expert Systems With Applications</a>.
-- Jul. 2023: One paper was accepted by <a href="https://ecai2023.eu/" target="_blank" style="text-decoration: none">ECAI 2023</a>.
-- Jul. 2023: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59" target="_blank" style="text-decoration: none">IEEE Transactions on Power Systems</a>.
-- Jul. 2023: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021" target="_blank" style="text-decoration: none">IEEE Transactions on Systems, Man and Cybernetics: Systems</a>.
-- May 2023: One paper was accepted by <a href="https://kdd.org/kdd2023/" target="_blank" style="text-decoration: none">KDD 2023</a>.
-- Apr. 2023: One paper was accepted by <a href="https://iclr.cc/Conferences/2023" target="_blank" style="text-decoration: none">ICLR 2023 Tiny Paper</a>.
-- Nov. 2022: One paper was accepted by <a href="https://aaai-23.aaai.org/" target="_blank" style="text-decoration: none">AAAI 2023</a>.
-- Seq. 2022: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering</a>.
-
+- Dec. 2023: One paper was accepted by <a href="https://aaai.org/aaai-conference/" target="_blank" style="text-decoration: none">AAAI 2024</a>.
+- Aug. 2023: Three papers were accepted by <a href="http://iconip2023.org/" target="_blank" style="text-decoration: none">ICONIP 2023</a>.
+- Aug. 2023: One survey paper was accepted by <a href="https://www.jos.org.cn/josen/article/abstract/mi007" target="_blank" style="text-decoration: none">Journal of Software</a>.
+- May. 2023: One paper was accepted by <a href="https://dl.acm.org/doi/abs/10.1145/3580305.3599388" target="_blank" style="text-decoration: none">KDD 2023</a>.
+- Apr. 2023: One paper was accepted by <a href="https://ieeexplore.ieee.org/abstract/document/10094005" target="_blank" style="text-decoration: none">IEEE TKDE</a>.
+- Mar. 2023: One paper was accepted by <a href="https://ieeexplore.ieee.org/abstract/document/10191131" target="_blank" style="text-decoration: none">IJCNN 2023</a>.
+- Dec. 2022: One paper was accepted by <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26370" target="_blank" style="text-decoration: none">AAAI 2024</a>.
+- Oct. 2022: One paper was accepted by <a href="https://www.sciencedirect.com/science/article/pii/S0925231222009961" target="_blank" style="text-decoration: none">Neurocomputing</a>.
+- Sep. 2022: One paper was accepted by <a href="https://ieeexplore.ieee.org/abstract/document/9955364" target="_blank" style="text-decoration: none">IEEE TNNLS</a>.
+- Sep. 2021: One paper was accepted by <a href="https://ieeexplore.ieee.org/abstract/document/9667681" target="_blank" style="text-decoration: none">ICBK 2021</a>.
+- Jul. 2019: One paper was accepted by <a href="https://link.springer.com/article/10.1007/s11432-018-9834-8" target="_blank" style="text-decoration: none">Science China Information Sciences</a>.
 
 <br>
 
@@ -32,13 +33,14 @@ News
 Biography
 ======
 
-
-I am currently pursuing the Ph.D. degree in the <a href="https://www.vipazoo.cn/" target="_blank" style="text-decoration: none">Visual Intelligence and Pattern Analysis (VIPA) Lab</a>, College of Computer Science and Technology @ <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a>, advised by Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a> and Prof. <a href="https://person.zju.edu.cn/en/0082004" target="_blank" style="text-decoration: none">Chun Chen</a>. I received the B.Eng. degree from the School of Data and Computer Science, <a href="https://www.sysu.edu.cn/sysuen/" target="_blank" style="text-decoration: none">Sun Yat-sen University</a>, in 2019. Please feel free to contact me if you are interested in my research :)
+I am currently working as a Postdoctoral Researcher at <a href="http://biggraph.hzcu.edu.cn/col/col8923/index.html" target="_blank" style="text-decoration: none">Big Graph Center</a>, School of Computer and Computing Science @ <a href="http://english.hzcu.edu.cn/" target="_blank" style="text-decoration: none">Hangzhou City University</a>. I obtained my Ph.D. degree from the Colledge of Computer Science and Technology, <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a>, in 2023 under the supervision of Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a> and Prof. <a href="https://person.zju.edu.cn/en/0082004" target="_blank" style="text-decoration: none">Chun Chen</a>. Prior to that, I recieved the B.Eng. degree from <a href="https://english.njust.edu.cn/" target="_blank" style="text-decoration: none">Nanjing University of Science and Technology</a>, in 2017. Please feel free to contact me if you are interested in my research :)
 
 My current research interests include 
-- **reinforcement learning**
-- **multi-agent learning**
-- **power system dispatch and control**
+- **data mining**
+- **graph neural networks**
+- **temporal networks**
+- **trajectory simulation**
+- **knowledge distillation**
 
 <br>
 
@@ -47,39 +49,27 @@ Selected Publications
 
 $^\dagger$ Equal contribution.
 
-- **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Cra2yDavid/MAM" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  **<u>Shunyu Liu$^\dagger$</u>**, Wei Luo$^\dagger$, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song.\\
-  IEEE Transactions on Power Systems, 2023.
+- **Temporal Aggregation and Propagation Graph Neural Networks for Dynamic Representation** <a href="https://ieeexplore.ieee.org/abstract/document/10094005" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/doujiang-zheng/TAP-GNN" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  **<u>Tongya Zheng</u>**, Xinchao Wang, Zunlei Feng, Jie Song, Yunzhi Hao, Mingli Song, Xingen Wang, Xinyu Wang, Chun Chen.\\
+  IEEE Transactions on Knowledge and Data Engineering, 2023.
 
-- **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** <a href="https://ieeexplore.ieee.org/abstract/document/10210582" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/Ask-AC" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  **<u>Shunyu Liu</u>**, Kaixuan Chen, Yu, Na, Jie Song, Zunlei Feng, Mingli Song.\\
-  IEEE Transactions on Systems, Man and Cybernetics: Systems, 2023.
+- **Transition Propagation Graph Neural Networks for Temporal Networks** <a href="https://ieeexplore.ieee.org/abstract/document/9955364" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/doujiang-zheng/TIP-GNN" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  **<u>Tongya Zheng</u>**, Zunlei Feng, Tianli Zhang, Yunzhi Hao, Mingli Song, Xingen Wang, Xinyu Wang, Ji Zhao, Chun Chen\\
+  IEEE Transactions on Neural Networks and Learning Systems, 2022.
 
-- **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition** <a href="https://arxiv.org/abs/2211.12712" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/CIA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  **<u>Shunyu Liu$^\dagger$</u>**, Yihe Zhou$^\dagger$, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
-  AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
-
-- **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning** <a href="https://arxiv.org/abs/2207.03902" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/OPT" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  **<u>Shunyu Liu</u>**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
-  arXiv preprint arXiv:2207.03902, 2022. 
-
+- **Learning Dynamic Preference Structure Embedding From Temporal Networks** <a href="https://ieeexplore.ieee.org/abstract/document/9667681" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/doujiang-zheng/Dynamic-Preference-Structure" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  **<u>Tongya Zheng</u>**, Zunlei Feng, Yu Wang, Chengchao Shen, Mingli Song, Xingen Wang, Xinyu Wang, Chun Chen, Hao Xu.\\
+  IEEE International Conference on Big Knowledge (ICBK), 2021.
 
 <br>
 
 Awards & Honors
 ======
 
-### Scholarship
-  - National Scholarship, Ministry of Education of the People's Republic of China, 2018.
-  - Outstanding Undergraduate Student Scholarship, Sun Yat-sen University, 2015-2018.
-  - Outstanding Ph.D. Student Scholarship, Zhejiang University, 2021.
-  - Outstanding Graduate Student Award, Zhejiang University, 2019-2021.
-
-### Competition
-  - Meritorious Winner in "Mathematical Contest in Modeling", COMAP, 2018.
-  - Ranked 9th in "Advanced Power System AI Application Competition", State Grid Corporation of China, 2022
-  - Ranked 5th in "L2RPN Challenge - Energies of the Future and Carbon Neutrality", WCCI, 2022.
-  - Ranked 3rd in "Power System Dispatching AI Application Competition", China Southern Power Grid, 2023.
+### Scholarship & Hornors
+  - Outstanding Graduate, Zhejiang University, 2020, 2021.
+  - Academic Excellence Scholarship, Nanjing University of Science and Technology, 2017.
+  - National Inspirational Scholarship, Nanjing University of Science and Technology, 2014, 2015.
 
 <br>
 
@@ -88,9 +78,12 @@ Academic Services
 
 
 ### Journal Reviewer
-  - IEEE Transactions on Knowledge and Data Engineering
+  - ACM Transactions on Knowledge Discovery from Data
+  - Expert Systems With Applicatins
   - Information Sciences
+  - Journal of Computer-Aided Design & Computer Graphics
 
 ### Conference Reviewer
-  - ICLR 2023, ECAI 2023, ICONIP 2023
-
+  - AAAI 2024
+  - ECAI 2023, ECML-PKDD 2023, AAAI 2023
+  - ECML-PKDD 2020
