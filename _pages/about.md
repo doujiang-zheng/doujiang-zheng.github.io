@@ -21,7 +21,7 @@ News
 - May. 2023: One paper was accepted by <a href="https://dl.acm.org/doi/abs/10.1145/3580305.3599388" target="_blank" style="text-decoration: none">KDD 2023</a>.
 - Apr. 2023: One paper was accepted by <a href="https://ieeexplore.ieee.org/abstract/document/10094005" target="_blank" style="text-decoration: none">IEEE TKDE</a>.
 - Mar. 2023: One paper was accepted by <a href="https://ieeexplore.ieee.org/abstract/document/10191131" target="_blank" style="text-decoration: none">IJCNN 2023</a>.
-- Dec. 2022: One paper was accepted by <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26370" target="_blank" style="text-decoration: none">AAAI 2024</a>.
+- Dec. 2022: One paper was accepted by <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26370" target="_blank" style="text-decoration: none">AAAI 2023</a>.
 - Oct. 2022: One paper was accepted by <a href="https://www.sciencedirect.com/science/article/pii/S0925231222009961" target="_blank" style="text-decoration: none">Neurocomputing</a>.
 - Sep. 2022: One paper was accepted by <a href="https://ieeexplore.ieee.org/abstract/document/9955364" target="_blank" style="text-decoration: none">IEEE TNNLS</a>.
 - Sep. 2021: One paper was accepted by <a href="https://ieeexplore.ieee.org/abstract/document/9667681" target="_blank" style="text-decoration: none">ICBK 2021</a>.
