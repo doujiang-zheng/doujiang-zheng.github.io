@@ -23,7 +23,7 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 - **Transition Propagation Graph Neural Networks for Temporal Networks** <a href="https://ieeexplore.ieee.org/abstract/document/9955364" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/doujiang-zheng/TIP-GNN" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Tongya Zheng</u>**, Zunlei Feng, Tianli Zhang, Yunzhi Hao, Mingli Song, Xingen Wang, Xinyu Wang, Ji Zhao, Chun Chen. \\
-  Neurocomputing, 2022.
+  IEEE Transactions on Neural Networks and Learning Systems, 2022.
 
 - **Real-time intelligent big data processing: technology, platform, and applications** <a href="https://link.springer.com/article/10.1007/s11432-018-9834-8" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   **<u>Tongya Zheng</u>**, Gang Chen, Xinyu Wang, Chun Chen, Xingen Wang, Sihui Luo. \\
