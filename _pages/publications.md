@@ -10,7 +10,7 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 ## Journal
 
 - **Spatiotemporal gated traffic trajectory simulation with semantic-aware graph learning** <a href="https://www.sciencedirect.com/science/article/pii/S1566253524001829" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Star607/STEGA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  Yu Wang, Ji Cao, Wenjie Huang, Zhihua Liu, **<u>Tongya Zheng<u>**$^*$, Mingli Song. \\
+  Yu Wang, Ji Cao, Wenjie Huang, Zhihua Liu, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
   Information Fusion, 2024.
 
 - **A Survey on Knowledge Distillation with Graph: Methods and Application Analysis** <a href="https://www.jos.org.cn/josen/article/abstract/mi007" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liujing1023/Graph-based-Knowledge-Distillation" target="_blank" style="text-decoration: none">\[Code\]</a> \\
@@ -36,25 +36,25 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 ## Conference
 
 - **Unveiling Global Interactive Patterns across Graphs: Towards Interpretable Graph Neural Networks** <a href="https://www.sciencedirect.com/science/article/pii/S1566253524001829" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
-  Yuwen Wang, Shunyu Liu$^*$, **<u>Tongya Zheng<u>**, Kaixuan Chen, Mingli Song. \\
+  Yuwen Wang, Shunyu Liu$^*$, **<u>Tongya Zheng</u>**, Kaixuan Chen, Mingli Song. \\
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
 - **COLA: Cross-city Mobility Transformer for Human Trajectory Simulation** <a href="https://arxiv.org/abs/2403.01801" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Star607/Cross-city-Mobility-Transformer" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  Yu Wang, **<u>Tongya Zheng<u>**$^*$, Yuxuan Liang, Shunyu Liu, Mingli Song. \\
+  Yu Wang, **<u>Tongya Zheng</u>**$^*$, Yuxuan Liang, Shunyu Liu, Mingli Song. \\
   The Web Conference (WWW), 2024.
 
 - **DGA-GNN: Dynamic Grouping Aggregation GNN for Fraud Detection** <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29067" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/AtwoodDuan/DGA-GNN" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  Mingjiang Duan, **<u>Tongya Zheng<u>**, Yang Gao, Gang Wang, Zunlei Feng$^*$, Xinyu Wang. \\
+  Mingjiang Duan, **<u>Tongya Zheng</u>**, Yang Gao, Gang Wang, Zunlei Feng$^*$, Xinyu Wang. \\
   AAAI Conference on Artificial Intelligence (AAAI), 2024.
 
 - **Disentangling Node Metric Factors for Temporal Link Prediction** <a href="https://link.springer.com/chapter/10.1007/978-981-99-8082-6_27
 " target="_blank" style="text-decoration: none">\[Paper\]</a> \\
-  Tianli Zhang, **<u>Tongya Zheng<u>**, Yuanyu Wan$^*$, Ying Li, Wenqi Huang.
+  Tianli Zhang, **<u>Tongya Zheng</u>**, Yuanyu Wan$^*$, Ying Li, Wenqi Huang.
   International Conference on Neural Information Processing (ICONIP), 2023.
  
 - **Heterogeneous Graph Prototypical Networks for Few-Shot Node Classification** <a href="
 https://link.springer.com/chapter/10.1007/978-981-99-8132-8_41" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
-  Yunzhi Hao$^*$ , Mengfan Wang, Xingen Wang, **<u>Tongya Zheng<u>**, Xinyu Wang, Wenqi Huang, Chun Chen. \\
+  Yunzhi Hao$^*$ , Mengfan Wang, Xingen Wang, **<u>Tongya Zheng</u>**, Xinyu Wang, Wenqi Huang, Chun Chen. \\
   International Conference on Neural Information Processing (ICONIP), 2023.
 
 - **Attribution Guided Layerwise Knowledge Amalgamation from Graph Neural Networks** <a href="https://www.springerprofessional.de/attribution-guided-layerwise-knowledge-amalgamation-from-graph-n/26298874" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
@@ -81,11 +81,11 @@ Bingde Hu, Wenjie Huang, Tongya Zheng, Mingli Song$^*$, Ying Li
 ## Preprint
 
 - **Simple Graph Condensation** <a href="https://arxiv.org/abs/2403.14951" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
-  Zhenbang Xiao, Yu Wang, Shunyu Liu, Huiqiong Wang$^*$, Mingli Song, **<u>Tongya Zheng<u>**. \\
+  Zhenbang Xiao, Yu Wang, Shunyu Liu, Huiqiong Wang$^*$, Mingli Song, **<u>Tongya Zheng</u>**. \\
   arXiv preprint arXiv:2403.14951, 2024.
 
 - **Disentangled Condensation for Large-scale Graphs** <a href="https://arxiv.org/abs/2401.12231" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
-  Zhenbang Xiao, Shunyu Liu, Yu Wang, **<u>Tongya Zheng<u>**$^*$, Mingli Song. \\
+  Zhenbang Xiao, Shunyu Liu, Yu Wang, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
   arXiv preprint arXiv:2401.12231, 2024.
 
 - **Agent-Aware Training for Agent-Agnostic Action Advising in Deep Reinforcement Learning** <a href="https://arxiv.org/abs/2311.16807" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
