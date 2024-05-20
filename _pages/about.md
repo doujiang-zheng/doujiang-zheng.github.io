@@ -15,6 +15,9 @@ redirect_from:
 News
 ======
 
+- May. 2024: One paper was accepted by <a href="https://kdd2024.kdd.org/" target="_blank" style="text-decoration: none">KDD 2024</a>.
+- Apr. 2024: One paper was accepted by <a href="https://www.sciencedirect.com/science/article/pii/S156625352400182" target="_blank" style="text-decoration: none">Information Fusion</a>.
+- Jan. 2024: One paper was accepted by <a href="https://www2024.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2024</a>.
 - Dec. 2023: One paper was accepted by <a href="https://aaai.org/aaai-conference/" target="_blank" style="text-decoration: none">AAAI 2024</a>.
 - Aug. 2023: Three papers were accepted by <a href="http://iconip2023.org/" target="_blank" style="text-decoration: none">ICONIP 2023</a>.
 - Aug. 2023: One survey paper was accepted by <a href="https://www.jos.org.cn/josen/article/abstract/mi007" target="_blank" style="text-decoration: none">Journal of Software</a>.
@@ -49,6 +52,14 @@ Selected Publications
 
 $^\dagger$ Equal contribution.
 
+- **Spatiotemporal gated traffic trajectory simulation with semantic-aware graph learning** <a href="https://www.sciencedirect.com/science/article/pii/S1566253524001829" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Star607/STEGA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Yu Wang, Ji Cao, Wenjie Huang, Zhihua Liu, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
+  Information Fusion, 2024.
+  
+- **COLA: Cross-city Mobility Transformer for Human Trajectory Simulation** <a href="https://arxiv.org/abs/2403.01801" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Star607/Cross-city-Mobility-Transformer" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Yu Wang, **<u>Tongya Zheng</u>**$^*$, Yuxuan Liang, Shunyu Liu, Mingli Song. \\
+  The Web Conference (WWW), 2024.
+
 - **Temporal Aggregation and Propagation Graph Neural Networks for Dynamic Representation** <a href="https://ieeexplore.ieee.org/abstract/document/10094005" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/doujiang-zheng/TAP-GNN" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Tongya Zheng</u>**, Xinchao Wang, Zunlei Feng, Jie Song, Yunzhi Hao, Mingli Song, Xingen Wang, Xinyu Wang, Chun Chen.\\
   IEEE Transactions on Knowledge and Data Engineering, 2023.
@@ -80,10 +91,12 @@ Academic Services
 ### Journal Reviewer
   - ACM Transactions on Knowledge Discovery from Data
   - Expert Systems With Applicatins
+  - IEEE Transactions on Knowledge and Data Engineering
   - Information Sciences
   - Journal of Computer-Aided Design & Computer Graphics
+  - Knowledge based Systems
 
 ### Conference Reviewer
-  - AAAI 2024
-  - ECAI 2023, ECML-PKDD 2023, AAAI 2023
+  - AAAI 2024, CIKM 2024, ECAI 2024, ECML-PKDD 2024
+  - AAAI 2023, ECAI 2023, ECML-PKDD 2023
   - ECML-PKDD 2020
