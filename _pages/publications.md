@@ -66,7 +66,6 @@ https://link.springer.com/chapter/10.1007/978-981-99-8132-8_41" target="_blank" 
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
 
 - **A General Heterogeneous Hypergraph Neural Network for Node Classification** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-https://ieeexplore.ieee.org/abstract/document/10191131/
 Bingde Hu, Wenjie Huang, Tongya Zheng, Mingli Song$^*$, Ying Li
 2023 International Joint Conference on Neural Networks (IJCNN), 2023.
 
