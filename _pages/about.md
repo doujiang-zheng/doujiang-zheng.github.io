@@ -56,7 +56,7 @@ $^\dagger$ Equal contribution.
   Yu Wang, Ji Cao, Wenjie Huang, Zhihua Liu, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
   Information Fusion, 2024.
   
-- **COLA: Cross-city Mobility Transformer for Human Trajectory Simulation** <a href="https://arxiv.org/abs/2403.01801" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Star607/Cross-city-Mobility-Transformer" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+- **COLA: Cross-city Mobility Transformer for Human Trajectory Simulation** <a href="https://dl.acm.org/doi/abs/10.1145/3589334.3645469" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Star607/Cross-city-Mobility-Transformer" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yu Wang, **<u>Tongya Zheng</u>**$^*$, Yuxuan Liang, Shunyu Liu, Mingli Song. \\
   The Web Conference (WWW), 2024.
 
