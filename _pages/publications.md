@@ -14,32 +14,32 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
   Information Fusion, 2024.
 
 - **A Survey on Knowledge Distillation with Graph: Methods and Application Analysis** <a href="https://www.jos.org.cn/josen/article/abstract/mi007" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liujing1023/Graph-based-Knowledge-Distillation" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  Jing Liu, **<u>Tongya Zheng</u>**, Qinfen Hao.\\
+  Jing Liu, **<u>Tongya Zheng</u>**, Qinfen Hao$^*$.\\
   Journal of Software, 2023.
 
 - **Temporal Aggregation and Propagation Graph Neural Networks for Dynamic Representation** <a href="https://ieeexplore.ieee.org/abstract/document/10094005" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/doujiang-zheng/TAP-GNN" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  **<u>Tongya Zheng</u>**, Xinchao Wang, Zunlei Feng, Jie Song, Yunzhi Hao, Mingli Song, Xingen Wang, Xinyu Wang, Chun Chen.\\
+  **<u>Tongya Zheng</u>**, Xinchao Wang, Zunlei Feng, Jie Song, Yunzhi Hao, Mingli Song$^*$, Xingen Wang, Xinyu Wang, Chun Chen.\\
   IEEE Transactions on Knowledge and Data Engineering, 2023.
 
 - **HIRE: Distilling high-order relational knowledge from heterogeneous graph neural networks** <a href="https://www.sciencedirect.com/science/article/pii/S0925231222009961" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
-  Jing Liu, **<u>Tongya Zheng</u>**, Qinfen Hao.\\
+  Jing Liu, **<u>Tongya Zheng</u>**, Qinfen Hao$^*$.\\
   Neurocomputing, 2022.
 
 - **Transition Propagation Graph Neural Networks for Temporal Networks** <a href="https://ieeexplore.ieee.org/abstract/document/9955364" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/doujiang-zheng/TIP-GNN" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  **<u>Tongya Zheng</u>**, Zunlei Feng, Tianli Zhang, Yunzhi Hao, Mingli Song, Xingen Wang, Xinyu Wang, Ji Zhao, Chun Chen. \\
+  **<u>Tongya Zheng</u>**, Zunlei Feng, Tianli Zhang, Yunzhi Hao, Mingli Song$^*$, Xingen Wang, Xinyu Wang, Ji Zhao, Chun Chen. \\
   IEEE Transactions on Neural Networks and Learning Systems, 2022.
 
 - **Real-time intelligent big data processing: technology, platform, and applications** <a href="https://link.springer.com/article/10.1007/s11432-018-9834-8" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
-  **<u>Tongya Zheng</u>**, Gang Chen, Xinyu Wang, Chun Chen, Xingen Wang, Sihui Luo. \\
+  **<u>Tongya Zheng</u>**, Gang Chen, Xinyu Wang$^*$, Chun Chen, Xingen Wang, Sihui Luo. \\
   Science China Information Sciences.
 
 ## Conference
 
-- **Unveiling Global Interactive Patterns across Graphs: Towards Interpretable Graph Neural Networks** <a href="https://www.sciencedirect.com/science/article/pii/S1566253524001829" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+- **Unveiling Global Interactive Patterns across Graphs: Towards Interpretable Graph Neural Networks** <a href="https://openreview.net/forum?id=YsTHWus1DF" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Yuwen Wang, Shunyu Liu$^*$, **<u>Tongya Zheng</u>**, Kaixuan Chen, Mingli Song. \\
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
-- **COLA: Cross-city Mobility Transformer for Human Trajectory Simulation** <a href="https://arxiv.org/abs/2403.01801" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Star607/Cross-city-Mobility-Transformer" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+- **COLA: Cross-city Mobility Transformer for Human Trajectory Simulation** <a href="https://dl.acm.org/doi/abs/10.1145/3589334.3645469" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Star607/Cross-city-Mobility-Transformer" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yu Wang, **<u>Tongya Zheng</u>**$^*$, Yuxuan Liang, Shunyu Liu, Mingli Song. \\
   The Web Conference (WWW), 2024.
 
