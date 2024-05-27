@@ -14,7 +14,7 @@ redirect_from:
 
 News
 ======
-
+- May. 2024: One paper was accepted by <a href="https://ecmlpkdd.org/2024/" target="_blank" style="text-decoration: none">ECML-PKDD 2024</a>.
 - May. 2024: One paper was accepted by <a href="https://kdd2024.kdd.org/" target="_blank" style="text-decoration: none">KDD 2024</a>.
 - Apr. 2024: One paper was accepted by <a href="https://www.sciencedirect.com/science/article/pii/S156625352400182" target="_blank" style="text-decoration: none">Information Fusion</a>.
 - Jan. 2024: One paper was accepted by <a href="https://www2024.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2024</a>.
