@@ -14,6 +14,7 @@ redirect_from:
 
 News
 ======
+- May. 2024: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE TKDE</a>.
 - May. 2024: One paper was accepted by <a href="https://ecmlpkdd.org/2024/" target="_blank" style="text-decoration: none">ECML-PKDD 2024</a>.
 - May. 2024: One paper was accepted by <a href="https://kdd2024.kdd.org/" target="_blank" style="text-decoration: none">KDD 2024</a>.
 - Apr. 2024: One paper was accepted by <a href="https://www.sciencedirect.com/science/article/pii/S156625352400182" target="_blank" style="text-decoration: none">Information Fusion</a>.
@@ -51,6 +52,14 @@ Selected Publications
 ======
 
 $^\dagger$ Equal contribution.
+
+- **Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation** <a href="https://arxiv.org/abs/2306.09381" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Yu Wang, **<u>Tongya Zheng</u>$^*$**, Shunyu Liu, Kaixuan Chen, Zunlei Feng, Yunzhi Hao, Mingli Song.\\
+  IEEE Transactions on Knowledge and Data Engineering, 2024.
+
+- **Simple Graph Condensation** <a href="https://arxiv.org/abs/2403.14951" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Zhenbang Xiao, Yu Wang, Shunyu Liu, Huiqiong Wang$^*$, Mingli Song, **<u>Tongya Zheng</u>**. \\
+  ECML-PKDD, 2024.
 
 - **Spatiotemporal gated traffic trajectory simulation with semantic-aware graph learning** <a href="https://www.sciencedirect.com/science/article/pii/S1566253524001829" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Star607/STEGA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yu Wang, Ji Cao, Wenjie Huang, Zhihua Liu, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
