@@ -9,6 +9,10 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Journal
 
+- **Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation** <a href="https://arxiv.org/abs/2306.09381" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Yu Wang, **<u>Tongya Zheng</u>$^*$**, Shunyu Liu, Kaixuan Chen, Zunlei Feng, Yunzhi Hao, Mingli Song.\\
+  IEEE Transactions on Knowledge and Data Engineering, 2024.
+
 - **Spatiotemporal gated traffic trajectory simulation with semantic-aware graph learning** <a href="https://www.sciencedirect.com/science/article/pii/S1566253524001829" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Star607/STEGA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yu Wang, Ji Cao, Wenjie Huang, Zhihua Liu, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
   Information Fusion, 2024.
@@ -34,6 +38,10 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
   Science China Information Sciences.
 
 ## Conference
+
+- **Simple Graph Condensation** <a href="https://arxiv.org/abs/2403.14951" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Zhenbang Xiao, Yu Wang, Shunyu Liu, Huiqiong Wang$^*$, Mingli Song, **<u>Tongya Zheng</u>**. \\
+  ECML-PKDD, 2024.
 
 - **Unveiling Global Interactive Patterns across Graphs: Towards Interpretable Graph Neural Networks** <a href="https://openreview.net/forum?id=YsTHWus1DF" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Yuwen Wang, Shunyu Liu$^*$, **<u>Tongya Zheng</u>**, Kaixuan Chen, Mingli Song. \\
@@ -79,10 +87,6 @@ Bingde Hu, Wenjie Huang, Tongya Zheng, Mingli Song$^*$, Ying Li
 
 ## Preprint
 
-- **Simple Graph Condensation** <a href="https://arxiv.org/abs/2403.14951" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
-  Zhenbang Xiao, Yu Wang, Shunyu Liu, Huiqiong Wang$^*$, Mingli Song, **<u>Tongya Zheng</u>**. \\
-  arXiv preprint arXiv:2403.14951, 2024.
-
 - **Disentangled Condensation for Large-scale Graphs** <a href="https://arxiv.org/abs/2401.12231" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Zhenbang Xiao, Shunyu Liu, Yu Wang, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
   arXiv preprint arXiv:2401.12231, 2024.
@@ -94,10 +98,6 @@ Bingde Hu, Wenjie Huang, Tongya Zheng, Mingli Song$^*$, Ying Li
 - **Graph Neural Networks-based Hybrid Framework For Predicting Particle Crushing Strength** <a href="https://arxiv.org/abs/2307.13909" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/doujiang-zheng/GNN-For-Particle-Crushing" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Tongya Zheng</u>**, Tianli Zhang, Qingzheng Guan, Wenjie Huang, Zunlei Feng, Mingli Song$^*$,, Chun Chen.\\
   arxiv preprint arXiv:2307.13909, 2023.
-
-- **Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation** <a href="https://arxiv.org/abs/2306.09381" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
-  Yu Wang, **<u>Tongya Zheng</u>$^*$**, Shunyu Liu, Kaixuan Chen, Zunlei Feng, Yunzhi Hao, Mingli Song.\\
-  arXiv preprint arXiv:2306.09381, 2023.
 
 - **Is Centralized Training with Decentralized Execution Framework Centralized Enough for MARL?** <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yihe Zhou$^\dagger$, Shunyu Liu$^\dagger$, Yunpeng Qing, Kaixuan Chen, **<u>Tongya Zheng</u>**, Yanhao Huang, Jie Song, Mingli Song$^*$. \\
