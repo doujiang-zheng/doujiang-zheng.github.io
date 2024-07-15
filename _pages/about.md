@@ -14,6 +14,8 @@ redirect_from:
 
 News
 ======
+- Jul. 2024: One paper was accepted by <a href="https://www.ecai2024.eu/programme/accepted-papers" target="_blank" style="text-decoration: none">ECAI 2024</a>.
+- Jul. 2024: One paper was accepted by <a href="https://doi.org/10.1016/j.eswa.2024.124691" target="_blank" style="text-decoration: none">Expert Systems with Applications</a>.
 - May. 2024: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE TKDE</a>.
 - May. 2024: One paper was accepted by <a href="https://ecmlpkdd.org/2024/" target="_blank" style="text-decoration: none">ECML-PKDD 2024</a>.
 - May. 2024: One paper was accepted by <a href="https://kdd2024.kdd.org/" target="_blank" style="text-decoration: none">KDD 2024</a>.

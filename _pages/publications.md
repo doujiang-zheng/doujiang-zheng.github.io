@@ -7,41 +7,15 @@ author_profile: false
 
 $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
-## Journal
-
-- **Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation** <a href="https://arxiv.org/abs/2306.09381" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
-  Yu Wang, **<u>Tongya Zheng</u>$^*$**, Shunyu Liu, Kaixuan Chen, Zunlei Feng, Yunzhi Hao, Mingli Song.\\
-  IEEE Transactions on Knowledge and Data Engineering, 2024.
-
-- **Spatiotemporal gated traffic trajectory simulation with semantic-aware graph learning** <a href="https://www.sciencedirect.com/science/article/pii/S1566253524001829" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Star607/STEGA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  Yu Wang, Ji Cao, Wenjie Huang, Zhihua Liu, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
-  Information Fusion, 2024.
-
-- **A Survey on Knowledge Distillation with Graph: Methods and Application Analysis** <a href="https://www.jos.org.cn/josen/article/abstract/mi007" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liujing1023/Graph-based-Knowledge-Distillation" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  Jing Liu, **<u>Tongya Zheng</u>**, Qinfen Hao$^*$.\\
-  Journal of Software, 2023.
-
-- **Temporal Aggregation and Propagation Graph Neural Networks for Dynamic Representation** <a href="https://ieeexplore.ieee.org/abstract/document/10094005" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/doujiang-zheng/TAP-GNN" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  **<u>Tongya Zheng</u>**, Xinchao Wang, Zunlei Feng, Jie Song, Yunzhi Hao, Mingli Song$^*$, Xingen Wang, Xinyu Wang, Chun Chen.\\
-  IEEE Transactions on Knowledge and Data Engineering, 2023.
-
-- **HIRE: Distilling high-order relational knowledge from heterogeneous graph neural networks** <a href="https://www.sciencedirect.com/science/article/pii/S0925231222009961" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
-  Jing Liu, **<u>Tongya Zheng</u>**, Qinfen Hao$^*$.\\
-  Neurocomputing, 2022.
-
-- **Transition Propagation Graph Neural Networks for Temporal Networks** <a href="https://ieeexplore.ieee.org/abstract/document/9955364" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/doujiang-zheng/TIP-GNN" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  **<u>Tongya Zheng</u>**, Zunlei Feng, Tianli Zhang, Yunzhi Hao, Mingli Song$^*$, Xingen Wang, Xinyu Wang, Ji Zhao, Chun Chen. \\
-  IEEE Transactions on Neural Networks and Learning Systems, 2022.
-
-- **Real-time intelligent big data processing: technology, platform, and applications** <a href="https://link.springer.com/article/10.1007/s11432-018-9834-8" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
-  **<u>Tongya Zheng</u>**, Gang Chen, Xinyu Wang$^*$, Chun Chen, Xingen Wang, Sihui Luo. \\
-  Science China Information Sciences.
-
 ## Conference
+
+- **Learning a Mini-batch Graph Transformer via Two-stage Interaction Augmentation** <a href="https://www.ecai2024.eu/programme/accepted-papers" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Wenda Li, Kaixuan Chen, Shunyu Liu, **<u>Tongya Zheng</u>**, Wenjie Huang and Mingli Song$^*$. \\
+  European Conference on Artificial Intelligence (ECAI), 2024.
 
 - **Simple Graph Condensation** <a href="https://arxiv.org/abs/2403.14951" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Zhenbang Xiao, Yu Wang, Shunyu Liu, Huiqiong Wang$^*$, Mingli Song, **<u>Tongya Zheng</u>**. \\
-  ECML-PKDD, 2024.
+  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2024.
 
 - **Unveiling Global Interactive Patterns across Graphs: Towards Interpretable Graph Neural Networks** <a href="https://openreview.net/forum?id=YsTHWus1DF" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Yuwen Wang, Shunyu Liu$^*$, **<u>Tongya Zheng</u>**, Kaixuan Chen, Mingli Song. \\
@@ -85,6 +59,40 @@ Bingde Hu, Wenjie Huang, Tongya Zheng, Mingli Song$^*$, Ying Li
   **<u>Tongya Zheng</u>**, Zunlei Feng, Yu Wang, Chengchao Shen, Mingli Song$^*$, Xingen Wang, Xinyu Wang, Chun Chen, Hao Xu.\\
   IEEE International Conference on Big Knowledge (ICBK), 2021.
 
+## Journal
+
+- **Graph Neural Networks-based Hybrid Framework For Predicting Particle Crushing Strength** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424015586" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/doujiang-zheng/GNN-For-Particle-Crushing" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  **<u>Tongya Zheng</u>**, Tianli Zhang, Qingzheng Guan, Wenjie Huang, Zunlei Feng, Mingli Song$^*$,, Chun Chen.\\
+  Expert Systems with Applications, 2024.
+
+- **Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation** <a href="https://arxiv.org/abs/2306.09381" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Yu Wang, **<u>Tongya Zheng</u>$^*$**, Shunyu Liu, Kaixuan Chen, Zunlei Feng, Yunzhi Hao, Mingli Song.\\
+  IEEE Transactions on Knowledge and Data Engineering, 2024.
+
+- **Spatiotemporal gated traffic trajectory simulation with semantic-aware graph learning** <a href="https://www.sciencedirect.com/science/article/pii/S1566253524001829" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Star607/STEGA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Yu Wang, Ji Cao, Wenjie Huang, Zhihua Liu, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
+  Information Fusion, 2024.
+
+- **A Survey on Knowledge Distillation with Graph: Methods and Application Analysis** <a href="https://www.jos.org.cn/josen/article/abstract/mi007" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liujing1023/Graph-based-Knowledge-Distillation" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Jing Liu, **<u>Tongya Zheng</u>**, Qinfen Hao$^*$.\\
+  Journal of Software, 2023.
+
+- **Temporal Aggregation and Propagation Graph Neural Networks for Dynamic Representation** <a href="https://ieeexplore.ieee.org/abstract/document/10094005" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/doujiang-zheng/TAP-GNN" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  **<u>Tongya Zheng</u>**, Xinchao Wang, Zunlei Feng, Jie Song, Yunzhi Hao, Mingli Song$^*$, Xingen Wang, Xinyu Wang, Chun Chen.\\
+  IEEE Transactions on Knowledge and Data Engineering, 2023.
+
+- **HIRE: Distilling high-order relational knowledge from heterogeneous graph neural networks** <a href="https://www.sciencedirect.com/science/article/pii/S0925231222009961" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Jing Liu, **<u>Tongya Zheng</u>**, Qinfen Hao$^*$.\\
+  Neurocomputing, 2022.
+
+- **Transition Propagation Graph Neural Networks for Temporal Networks** <a href="https://ieeexplore.ieee.org/abstract/document/9955364" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/doujiang-zheng/TIP-GNN" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  **<u>Tongya Zheng</u>**, Zunlei Feng, Tianli Zhang, Yunzhi Hao, Mingli Song$^*$, Xingen Wang, Xinyu Wang, Ji Zhao, Chun Chen. \\
+  IEEE Transactions on Neural Networks and Learning Systems, 2022.
+
+- **Real-time intelligent big data processing: technology, platform, and applications** <a href="https://link.springer.com/article/10.1007/s11432-018-9834-8" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  **<u>Tongya Zheng</u>**, Gang Chen, Xinyu Wang$^*$, Chun Chen, Xingen Wang, Sihui Luo. \\
+  Science China Information Sciences.
+
 ## Preprint
 
 - **Disentangled Condensation for Large-scale Graphs** <a href="https://arxiv.org/abs/2401.12231" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
@@ -94,10 +102,6 @@ Bingde Hu, Wenjie Huang, Tongya Zheng, Mingli Song$^*$, Ying Li
 - **Agent-Aware Training for Agent-Agnostic Action Advising in Deep Reinforcement Learning** <a href="https://arxiv.org/abs/2311.16807" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
   Yaoquan Wei, Shunyu Liu$^*$, Jie Song, **<u>Tongya Zheng</u>**, Kaixuan Chen, Yong Wang, Mingli Song.\\
   arXiv preprint arXiv:2311.16807, 2023.
-
-- **Graph Neural Networks-based Hybrid Framework For Predicting Particle Crushing Strength** <a href="https://arxiv.org/abs/2307.13909" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/doujiang-zheng/GNN-For-Particle-Crushing" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  **<u>Tongya Zheng</u>**, Tianli Zhang, Qingzheng Guan, Wenjie Huang, Zunlei Feng, Mingli Song$^*$,, Chun Chen.\\
-  arxiv preprint arXiv:2307.13909, 2023.
 
 - **Is Centralized Training with Decentralized Execution Framework Centralized Enough for MARL?** <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yihe Zhou$^\dagger$, Shunyu Liu$^\dagger$, Yunpeng Qing, Kaixuan Chen, **<u>Tongya Zheng</u>**, Yanhao Huang, Jie Song, Mingli Song$^*$. \\
