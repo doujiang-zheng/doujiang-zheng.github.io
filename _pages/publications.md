@@ -9,6 +9,34 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Conference
 
+- **Disentangled Table-Graph Representation for Interpretable Transmission Line Fault Location** <a href="https://openreview.net/forum?id=u9vHIPJJeM" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Na Yu, Yutong Deng, Shunyu Liu, Kaixuan Chen, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
+  The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.
+
+- **Agent-Aware Training for Agent-Agnostic Action Advising in Deep Reinforcement Learning** <a href="https://openreview.net/forum?id=uqzbsLLMtR" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Yaoquan Wei, Shunyu Liu$^*$, Jie Song, **<u>Tongya Zheng</u>**, Kaixuan Chen, Mingli Song. \\
+  The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.
+
+- **Holistic Semantic Representation for Navigational Trajectory Generation** <a href="https://openreview.net/forum?id=wH1Dkg2YeL" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Ji Cao, **<u>Tongya Zheng</u>**$^*$, Qinghong Guo, Yu Wang, Junshu Dai, Shunyu Liu, Jie Yang, Jie Song, Mingli Song. \\
+  The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.
+
+- **Cooperative Policy Agreement: Learning Diverse Policy for Offline MARL** <a href="https://openreview.net/forum?id=ti370UZvyP" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Yihe Zhou, Yuxuan Zheng, Yue Hu, Kaixuan Chen, **<u>Tongya Zheng</u>**, Jie Song, Mingli Song, Shunyu Liu$^*$. \\
+  The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.
+
+- **Global Attribute-Association Pattern Aggregation for Graph Fraud Detection** <a href="https://openreview.net/forum?id=Vnh0oHEXu9" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Mingjiang Duan, Da He, **<u>Tongya Zheng</u>**, Lingxiang Jia, Mingli Song, Xinyu Wang, Zunlei Fen$^*$g. \\
+  The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.
+
+- **Unified Mask Graph Modeling for Incomplete Tabular Learning** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Na Yu, **<u>Tongya Zheng</u>**$^*$, Kaixuan Chen, Shunyu Liu, Mingli Song. \\
+  The 31st International Conference on Neural Information Processing (ICONIP), 2024.
+
+- **Language Models-enhanced Semantic Topology Representation Learning For Temporal Knowledge Graph Extrapolation** <a href="https://dl.acm.org/doi/10.1145/3627673.3679602" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Tianli Zhang, **<u>Tongya Zheng</u>**$^*$, Zhenbang Xiao, Zulong Chen, Liangyue Li, Zunlei Feng, Dongxiang Zhang, Mingli Song. \\
+  The 33rd ACM International Conference on Information and Knowledge Management (CIKM), 2024.
+
 - **Learning a Mini-batch Graph Transformer via Two-stage Interaction Augmentation** <a href="https://www.ecai2024.eu/programme/accepted-papers" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Wenda Li, Kaixuan Chen, Shunyu Liu, **<u>Tongya Zheng</u>**, Wenjie Huang and Mingli Song$^*$. \\
   European Conference on Artificial Intelligence (ECAI), 2024.
@@ -65,7 +93,7 @@ Bingde Hu, Wenjie Huang, Tongya Zheng, Mingli Song$^*$, Ying Li
   **<u>Tongya Zheng</u>**, Tianli Zhang, Qingzheng Guan, Wenjie Huang, Zunlei Feng, Mingli Song$^*$,, Chun Chen.\\
   Expert Systems with Applications, 2024.
 
-- **Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation** <a href="https://arxiv.org/abs/2306.09381" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+- **Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation** <a href="https://arxiv.org/abs/2306.09381" target="_blank" style="text-decoration: none">\[Paper\]</a>  <a href="https://github.com/Star607/STAR-TKDE" target="_blank" style="text-decoration: none">\[Code\] \\
   Yu Wang, **<u>Tongya Zheng</u>$^*$**, Shunyu Liu, Kaixuan Chen, Zunlei Feng, Yunzhi Hao, Mingli Song.\\
   IEEE Transactions on Knowledge and Data Engineering, 2024.
 
@@ -95,13 +123,13 @@ Bingde Hu, Wenjie Huang, Tongya Zheng, Mingli Song$^*$, Ying Li
 
 ## Preprint
 
+- **Curriculum Negative Mining For Temporal Networks** <a href="https://arxiv.org/abs/2407.17070" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zziyue83/CurNM" target="_blank" style="text-decoration: none">\[Code\]</a>  \\
+  Ziyue Chen, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
+  arXiv preprint arXiv:2407.17070, 2024.
+
 - **Disentangled Condensation for Large-scale Graphs** <a href="https://arxiv.org/abs/2401.12231" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Zhenbang Xiao, Shunyu Liu, Yu Wang, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
   arXiv preprint arXiv:2401.12231, 2024.
-
-- **Agent-Aware Training for Agent-Agnostic Action Advising in Deep Reinforcement Learning** <a href="https://arxiv.org/abs/2311.16807" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
-  Yaoquan Wei, Shunyu Liu$^*$, Jie Song, **<u>Tongya Zheng</u>**, Kaixuan Chen, Yong Wang, Mingli Song.\\
-  arXiv preprint arXiv:2311.16807, 2023.
 
 - **Is Centralized Training with Decentralized Execution Framework Centralized Enough for MARL?** <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yihe Zhou$^\dagger$, Shunyu Liu$^\dagger$, Yunpeng Qing, Kaixuan Chen, **<u>Tongya Zheng</u>**, Yanhao Huang, Jie Song, Mingli Song$^*$. \\
