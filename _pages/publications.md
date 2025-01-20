@@ -9,6 +9,10 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Conference
 
+- **Disentangled Condensation for Large-scale Graphs** <a href="https://arxiv.org/abs/2401.12231" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Zhenbang Xiao, Shunyu Liu, Yu Wang, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
+  The Web Conference (WWW), 2025.
+
 - **Disentangled Table-Graph Representation for Interpretable Transmission Line Fault Location** <a href="https://openreview.net/forum?id=u9vHIPJJeM" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Na Yu, Yutong Deng, Shunyu Liu, Kaixuan Chen, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
   The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.
@@ -126,10 +130,6 @@ Bingde Hu, Wenjie Huang, Tongya Zheng, Mingli Song$^*$, Ying Li
 - **Curriculum Negative Mining For Temporal Networks** <a href="https://arxiv.org/abs/2407.17070" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zziyue83/CurNM" target="_blank" style="text-decoration: none">\[Code\]</a>  \\
   Ziyue Chen, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
   arXiv preprint arXiv:2407.17070, 2024.
-
-- **Disentangled Condensation for Large-scale Graphs** <a href="https://arxiv.org/abs/2401.12231" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
-  Zhenbang Xiao, Shunyu Liu, Yu Wang, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
-  arXiv preprint arXiv:2401.12231, 2024.
 
 - **Is Centralized Training with Decentralized Execution Framework Centralized Enough for MARL?** <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yihe Zhou$^\dagger$, Shunyu Liu$^\dagger$, Yunpeng Qing, Kaixuan Chen, **<u>Tongya Zheng</u>**, Yanhao Huang, Jie Song, Mingli Song$^*$. \\

@@ -14,6 +14,7 @@ redirect_from:
 
 News
 ======
+- Jan. 2025: One paper was accepted by <a href="https://www2025.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2025</a>.
 - Dec. 2024: Five papers were accepted by <a href="https://aaai.org/conference/aaai/aaai-25/" target="_blank" style="text-decoration: none">AAAI 2025</a>.
 - Aug. 2024: One paper was accepted by <a href="https://iconip2024.org/" target="_blank" style="text-decoration: none">ICONIP 2024</a>.
 - Jul. 2024: One paper was accepted by <a href="https://dl.acm.org/doi/10.1145/3627673.3679602" target="_blank" style="text-decoration: none">CIKM 2024</a>.
@@ -63,7 +64,7 @@ $^*$ Corresponding author.
 
 - **Disentangled Condensation for Large-scale Graphs** <a href="https://arxiv.org/abs/2401.12231" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Zhenbang Xiao, Shunyu Liu, Yu Wang, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
-  arXiv preprint arXiv:2401.12231, 2024.
+  The Web Conference (WWW), 2025.
 
 - **Disentangled Table-Graph Representation for Interpretable Transmission Line Fault Location** <a href="https://openreview.net/forum?id=u9vHIPJJeM" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Na Yu, Yutong Deng, Shunyu Liu, Kaixuan Chen, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
