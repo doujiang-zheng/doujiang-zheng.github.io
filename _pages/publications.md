@@ -9,12 +9,28 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Conference
 
-- **Disentangled Condensation for Large-scale Graphs** <a href="https://arxiv.org/abs/2401.12231" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+- **Effective and Efficient Distributed Temporal Graph Learning through Hotspot Memory Sharing** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Longjiao Zhang, Rui Wang$^*$, **<u>Tongya Zheng</u>**, Ziqi Huang, Wenjie Huang, Xinyu Wang, Can Wang, Mingli Song, Sai Wu, Shuibing He. \\
+  The 51st International Conference on Very Large Data BasesLondon (VLDB), 2025.
+
+- **Efficient Dynamic Graphs Learning with Refined Batch Parallel Training** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Zhengzhao Feng, Rui Wang$^*$, Longjiao Zhang, **<u>Tongya Zheng</u>**, Ziqi Huang, Mingli Song. \\
+  The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025.
+
+- **Odyssey : Empowering Minecraft Agents with Open-World Skills** <a href="https://arxiv.org/abs/2407.15325" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zju-vipa/Odyssey" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Shunyu Liu, Yaoru Li, Kongcheng Zhang, Zhenyu Cui, Wenkai Fang, Yuxuan Zheng, **<u>Tongya Zheng</u>**, Mingli Song$^*$. \\
+  The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025.
+
+- **CADP: Towards Better Centralized Learning for Decentralized Execution in MARL** <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Yihe Zhou$^\dagger$, Shunyu Liu$^{\dagger *}$, Yunpeng Qing, Kaixuan Chen, **<u>Tongya Zheng</u>**, Yanhao Huang, Jie Song, Mingli Song. \\
+  The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025.
+
+- **Disentangled Condensation for Large-scale Graphs** <a href="https://arxiv.org/abs/2401.12231" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/BangHonor/DisCo" target="_blank" style="text-decoration: none">\[Code\]</a>\\
   Zhenbang Xiao, Shunyu Liu, Yu Wang, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
   The Web Conference (WWW), 2025.
 
 - **Disentangled Table-Graph Representation for Interpretable Transmission Line Fault Location** <a href="https://openreview.net/forum?id=u9vHIPJJeM" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
-  Na Yu, Yutong Deng, Shunyu Liu, Kaixuan Chen, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
+  Na Yu, Yutong Deng, Shunyu Liu, Kaixuan Chen$^*$, **<u>Tongya Zheng</u>**, Mingli Song. \\
   The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.
 
 - **Agent-Aware Training for Agent-Agnostic Action Advising in Deep Reinforcement Learning** <a href="https://openreview.net/forum?id=uqzbsLLMtR" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
@@ -93,11 +109,15 @@ Bingde Hu, Wenjie Huang, Tongya Zheng, Mingli Song$^*$, Ying Li
 
 ## Journal
 
-- **Graph Neural Networks-based Hybrid Framework For Predicting Particle Crushing Strength** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424015586" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/doujiang-zheng/GNN-For-Particle-Crushing" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  **<u>Tongya Zheng</u>**, Tianli Zhang, Qingzheng Guan, Wenjie Huang, Zunlei Feng, Mingli Song$^*$,, Chun Chen.\\
+- **BARE: Balance representation for imbalance multi-class node classification on heterogeneous information networks** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425001289" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Canghong Jin, Hao Ni, Feng Miao, **<u>Tongya Zheng</u>**, Mingli Song, Zemin Liu$^*$.\\
   Expert Systems with Applications, 2024.
 
-- **Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation** <a href="https://arxiv.org/abs/2306.09381" target="_blank" style="text-decoration: none">\[Paper\]</a>  <a href="https://github.com/Star607/STAR-TKDE" target="_blank" style="text-decoration: none">\[Code\] \\
+- **Graph Neural Networks-based Hybrid Framework For Predicting Particle Crushing Strength** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417424015586" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/doujiang-zheng/GNN-For-Particle-Crushing" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  **<u>Tongya Zheng</u>**, Tianli Zhang, Qingzheng Guan, Wenjie Huang, Zunlei Feng, Mingli Song$^*$, Chun Chen.\\
+  Expert Systems with Applications, 2024.
+
+- **Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation** <a href="https://arxiv.org/abs/2306.09381" target="_blank" style="text-decoration: none">\[Paper\]</a>  <a href="https://github.com/Star607/STAR-TKDE" target="_blank" style="text-decoration: none">\[Code\] </a> \\
   Yu Wang, **<u>Tongya Zheng</u>$^*$**, Shunyu Liu, Kaixuan Chen, Zunlei Feng, Yunzhi Hao, Mingli Song.\\
   IEEE Transactions on Knowledge and Data Engineering, 2024.
 
@@ -130,10 +150,6 @@ Bingde Hu, Wenjie Huang, Tongya Zheng, Mingli Song$^*$, Ying Li
 - **Curriculum Negative Mining For Temporal Networks** <a href="https://arxiv.org/abs/2407.17070" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zziyue83/CurNM" target="_blank" style="text-decoration: none">\[Code\]</a>  \\
   Ziyue Chen, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
   arXiv preprint arXiv:2407.17070, 2024.
-
-- **Is Centralized Training with Decentralized Execution Framework Centralized Enough for MARL?** <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  Yihe Zhou$^\dagger$, Shunyu Liu$^\dagger$, Yunpeng Qing, Kaixuan Chen, **<u>Tongya Zheng</u>**, Yanhao Huang, Jie Song, Mingli Song$^*$. \\
-  arXiv preprint arXiv:2305.17352, 2023.
 
 - **Graph-based Knowledge Distillation: A survey and experimental evaluation** <a href="https://arxiv.org/abs/2302.14643" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liujing1023/Graph-based-Knowledge-Distillation" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Jing Liu, **<u>Tongya Zheng</u>**, Guanzheng Zhang, Qinfen Hao$^*$. \\
