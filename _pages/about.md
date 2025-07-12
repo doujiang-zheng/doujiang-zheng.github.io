@@ -14,6 +14,7 @@ redirect_from:
 
 News
 ======
+- Jul. 2025: One paper was accepted by <a href="https://www.sciencedirect.com/journal/neural-networks" target="_blank" style="text-decoration: none">Neural Networks</a>.
 - May. 2025: One paper was accepted by <a href="https://vldb.org/2025/" target="_blank" style="text-decoration: none">VLDB 2025</a>.
 - Apr. 2025: Three papers were accepted by <a href="https://2025.ijcai.org/" target="_blank" style="text-decoration: none">IJCAI 2025</a>.
 - Jan. 2025: One paper was accepted by <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425001289" target="_blank" style="text-decoration: none">ESWA</a>.
@@ -61,16 +62,16 @@ Selected Publications
 
 $^*$ Corresponding author.
 
+- **Curriculum Negative Mining For Temporal Networks** <a href="https://arxiv.org/abs/2407.17070" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zziyue83/CurNM" target="_blank" style="text-decoration: none">\[Code\]</a>  \\
+  Ziyue Chen, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
+  Neural Networks, 2025.
+
 - **Odyssey : Empowering Minecraft Agents with Open-World Skills** <a href="https://arxiv.org/abs/2407.15325" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zju-vipa/Odyssey" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Shunyu Liu, Yaoru Li, Kongcheng Zhang, Zhenyu Cui, Wenkai Fang, Yuxuan Zheng, **<u>Tongya Zheng</u>**, Mingli Song$^*$. \\
   The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025.
 
-- **Curriculum Negative Mining For Temporal Networks** <a href="https://arxiv.org/abs/2407.17070" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zziyue83/CurNM" target="_blank" style="text-decoration: none">\[Code\]</a>  \\
-  Ziyue Chen, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
-  arXiv preprint arXiv:2407.17070, 2024.
-
 - **Disentangled Condensation for Large-scale Graphs** <a href="https://arxiv.org/abs/2401.12231" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/BangHonor/DisCo" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  Zhenbang Xiao, Shunyu Liu, Yu Wang, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
+  Zhenbang Xiao, Yu Wang, Shunyu Liu, Bingde Hu, Huiqiong Wang$^*$, Mingli Song, **<u>Tongya Zheng</u>**. \\
   The Web Conference (WWW), 2025.
 
 - **Disentangled Table-Graph Representation for Interpretable Transmission Line Fault Location** <a href="https://openreview.net/forum?id=u9vHIPJJeM" target="_blank" style="text-decoration: none">\[Paper\]</a> \\

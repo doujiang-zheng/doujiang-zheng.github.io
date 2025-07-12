@@ -26,7 +26,7 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
   The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025.
 
 - **Disentangled Condensation for Large-scale Graphs** <a href="https://arxiv.org/abs/2401.12231" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/BangHonor/DisCo" target="_blank" style="text-decoration: none">\[Code\]</a>\\
-  Zhenbang Xiao, Shunyu Liu, Yu Wang, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
+  Zhenbang Xiao, Yu Wang, Shunyu Liu, Bingde Hu, Huiqiong Wang$^*$, Mingli Song, **<u>Tongya Zheng</u>**. \\
   The Web Conference (WWW), 2025.
 
 - **Disentangled Table-Graph Representation for Interpretable Transmission Line Fault Location** <a href="https://openreview.net/forum?id=u9vHIPJJeM" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
@@ -109,6 +109,10 @@ Bingde Hu, Wenjie Huang, Tongya Zheng, Mingli Song$^*$, Ying Li
 
 ## Journal
 
+- **Curriculum Negative Mining For Temporal Networks** <a href="https://arxiv.org/abs/2407.17070" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zziyue83/CurNM" target="_blank" style="text-decoration: none">\[Code\]</a>  \\
+  Ziyue Chen, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
+  Neural Networks, 2025.
+
 - **BARE: Balance representation for imbalance multi-class node classification on heterogeneous information networks** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425001289" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Canghong Jin, Hao Ni, Feng Miao, **<u>Tongya Zheng</u>**, Mingli Song, Zemin Liu$^*$.\\
   Expert Systems with Applications, 2024.
@@ -146,10 +150,6 @@ Bingde Hu, Wenjie Huang, Tongya Zheng, Mingli Song$^*$, Ying Li
   Science China Information Sciences.
 
 ## Preprint
-
-- **Curriculum Negative Mining For Temporal Networks** <a href="https://arxiv.org/abs/2407.17070" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zziyue83/CurNM" target="_blank" style="text-decoration: none">\[Code\]</a>  \\
-  Ziyue Chen, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
-  arXiv preprint arXiv:2407.17070, 2024.
 
 - **Graph-based Knowledge Distillation: A survey and experimental evaluation** <a href="https://arxiv.org/abs/2302.14643" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liujing1023/Graph-based-Knowledge-Distillation" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Jing Liu, **<u>Tongya Zheng</u>**, Guanzheng Zhang, Qinfen Hao$^*$. \\
