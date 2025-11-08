@@ -8,16 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-**Postdoc** \| **Big Graph Center** \| **Hangzhou City University**
+**Assitant Professor** \| **Big Graph Center** \| **Hangzhou City University**
 
 <br>
 
 News
 ======
-- Jul. 2025: One paper was accepted by <a href="https://www.sciencedirect.com/journal/neural-networks" target="_blank" style="text-decoration: none">Neural Networks</a>.
+- Oct. 2025: Two papers were accepted by <a href="https://aaai.org/conference/aaai/aaai-26/" target="_blank" style="text-decoration: none">AAAI 2026</a>.
+- Sep. 2025: Three papers were accepted by <a href="https://neurips.cc/virtual/2025/loc/san-diego/papers.html" target="_blank" style="text-decoration: none">NeurIPS 2025</a>.
+- Sep. 2025: One paper was accepted by <a href="https://ieeexplore.ieee.org/abstract/document/11177237/" target="_blank" style="text-decoration: none">IEEE TKDE</a>.
+- Aug. 2025: One paper was accepted by <a href="https://iconip2025.apnns.org/" target="_blank" style="text-decoration: none">ICONIP 2025</a>.
 - May. 2025: One paper was accepted by <a href="https://vldb.org/2025/" target="_blank" style="text-decoration: none">VLDB 2025</a>.
 - Apr. 2025: Three papers were accepted by <a href="https://2025.ijcai.org/" target="_blank" style="text-decoration: none">IJCAI 2025</a>.
 - Jan. 2025: One paper was accepted by <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425001289" target="_blank" style="text-decoration: none">ESWA</a>.
+- Jan. 2025: One paper was accepted by <a href="https://iclr.cc/Conferences/2025/" target="_blank" style="text-decoration: none">ICLR 2025</a>.
 - Jan. 2025: One paper was accepted by <a href="https://www2025.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2025</a>.
 - Dec. 2024: Five papers were accepted by <a href="https://aaai.org/conference/aaai/aaai-25/" target="_blank" style="text-decoration: none">AAAI 2025</a>.
 - Aug. 2024: One paper was accepted by <a href="https://iconip2024.org/" target="_blank" style="text-decoration: none">ICONIP 2024</a>.
@@ -47,13 +51,13 @@ News
 Biography
 ======
 
-I am currently working as a Postdoctoral Researcher at <a href="http://biggraph.hzcu.edu.cn/col/col8923/index.html" target="_blank" style="text-decoration: none">Big Graph Center</a>, School of Computer and Computing Science @ <a href="http://english.hzcu.edu.cn/" target="_blank" style="text-decoration: none">Hangzhou City University</a>. I obtained my Ph.D. degree from the Colledge of Computer Science and Technology, <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a>, in 2023 under the supervision of Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a> and Prof. <a href="https://person.zju.edu.cn/en/0082004" target="_blank" style="text-decoration: none">Chun Chen</a>. Prior to that, I recieved the B.Eng. degree from <a href="https://english.njust.edu.cn/" target="_blank" style="text-decoration: none">Nanjing University of Science and Technology</a>, in 2017. Please feel free to contact me if you are interested in my research :)
+I am currently working as a tenure-track Assitant Professor at <a href="http://biggraph.hzcu.edu.cn/col/col8923/index.html" target="_blank" style="text-decoration: none">Big Graph Center</a>, School of Computer and Computing Science @ <a href="http://english.hzcu.edu.cn/" target="_blank" style="text-decoration: none">Hangzhou City University</a>. I obtained my Ph.D. degree from the Colledge of Computer Science and Technology, <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a>, in 2023 under the supervision of Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a> and Prof. <a href="https://person.zju.edu.cn/en/0082004" target="_blank" style="text-decoration: none">Chun Chen</a>. Prior to that, I recieved the B.Eng. degree from <a href="https://english.njust.edu.cn/" target="_blank" style="text-decoration: none">Nanjing University of Science and Technology</a>, in 2017. Please feel free to contact me if you are interested in my research :)
 
 My current research interests include 
-- **graph neural networks**
-- **temporal networks**
+- **agentic graph reasoning**
+- **graph foundation model**
 - **urban computing**
-- **trajectory simulation**
+- **trajectory representation learning**
 
 <br>
 

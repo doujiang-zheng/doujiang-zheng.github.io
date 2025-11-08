@@ -16,7 +16,8 @@ Education
 
 Work experience
 ======
-* Postdoc in Hangzhou City University, 2023-present
+* Postdoc in Hangzhou City University, 2023-2025
+* Assitant Professor in Hangzhou City University, 2025-present
   
 Publications
 ======

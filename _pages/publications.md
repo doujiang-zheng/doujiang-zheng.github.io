@@ -9,6 +9,30 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Conference
 
+- **Neural Graph Navigation for Intelligent Subgraph Matching** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Yuchen Ying, Yiyang Dai, Wenda Li, Wenjie Huang, Rui Wang, **<u>Tongya Zheng</u>**$^*$, Yu Wang, Hanyang Yuan, Mingli Song. \\
+  The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026.
+
+- **Dual-branch Spatial-Temporal Self-supervised Representation for Enhanced Road Network Learning** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Qinghong Guo, Yu Wang, Ji Cao, **<u>Tongya Zheng</u>**$^*$, Junshu Dai, Bingde Hu, Shunyu Liu, Canghong Jin. \\
+  The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026.
+
+- **Tree of Preferences for Diversified Recommendation** <a href="https://openreview.net/pdf/e026e2523a28ce8d1fb92eb33e565541d246a470.pdf" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Hanyang Yuan, Ning Tang, **<u>Tongya Zheng</u>**$^*$, Jiarong Xu$^*$, Xintong Hu, Renhong Huang, Shunyu Liu, Jiacong Hu, Jiawei Chen, and Mingli Song \\
+  The 39th Annual Conference on Neural Information Processing Systems, 2025.
+
+- **SeRL: Self-Play Reinforcement Learning for Large Language Models with Limited Data** <a href="https://arxiv.org/abs/2505.20347" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/wantbook-book/SeRL" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Wenkai Fang, Shunyu Liu$^*$, Yang Zhou, Kongcheng Zhang, **<u>Tongya Zheng</u>**, Kaixuan Chen, Mingli Song, Dacheng Tao \\
+  The 39th Annual Conference on Neural Information Processing Systems, 2025.
+
+- **SALoM: Structure Aware Temporal Graph Networks with Long-Short Memory Updater** <a href="https://openreview.net/forum?id=hvaEMv4MVD" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/wave5418/SALoM" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Hanwen Liu, Longjiao Zhang, Rui Wang$^*$, **<u>Tongya Zheng</u>**, Sai Wu, Chang Yao, and Mingli Song \\
+  The 39th Annual Conference on Neural Information Processing Systems, 2025.
+
+- **Binning Encoder-based Grouped Aggregation for Network Traffic Anomaly Detection** <a href="https://openreview.net/forum?id=0HSS43M1Qj" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Lingyao Lu, **<u>Tongya Zheng</u>**, Haoye Wang$^*$, Zunlei Feng, and Mingli Song \\
+  The 39th Annual Conference on Neural Information Processing Systems, 2025.
+
 - **Effective and Efficient Distributed Temporal Graph Learning through Hotspot Memory Sharing** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Longjiao Zhang, Rui Wang$^*$, **<u>Tongya Zheng</u>**, Ziqi Huang, Wenjie Huang, Xinyu Wang, Can Wang, Mingli Song, Sai Wu, Shuibing He. \\
   The 51st International Conference on Very Large Data BasesLondon (VLDB), 2025.
@@ -24,6 +48,10 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 - **CADP: Towards Better Centralized Learning for Decentralized Execution in MARL** <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yihe Zhou$^\dagger$, Shunyu Liu$^{\dagger *}$, Yunpeng Qing, Kaixuan Chen, **<u>Tongya Zheng</u>**, Yanhao Huang, Jie Song, Mingli Song. \\
   The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025.
+
+- **From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks** <a href="https://openreview.net/forum?id=KEUPk0wXXe" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/dutyj2020/TIF" target="_blank" style="text-decoration: none">\[Code\]</a>\\
+  Jie Yang, Yuwen Wang, Kaixuan Chen, **<u>Tongya Zheng</u>**, Yihe Zhou, Zhenbang Xiao, Ji Cao, Mingli Song, Shunyu Liu$^*$. \\
+  The 13th International Conference on Learning Representations, 2025.
 
 - **Disentangled Condensation for Large-scale Graphs** <a href="https://arxiv.org/abs/2401.12231" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/BangHonor/DisCo" target="_blank" style="text-decoration: none">\[Code\]</a>\\
   Zhenbang Xiao, Yu Wang, Shunyu Liu, Bingde Hu, Huiqiong Wang$^*$, Mingli Song, **<u>Tongya Zheng</u>**. \\
@@ -109,6 +137,10 @@ Bingde Hu, Wenjie Huang, Tongya Zheng, Mingli Song$^*$, Ying Li
 
 ## Journal
 
+- **Efficient Distributed Graph Neural Network Training With Source Chunking and Moving Aggregation** <a href="https://ieeexplore.ieee.org/abstract/document/11177237" target="_blank" style="text-decoration: none">\[Paper\]</a>  <a href="https://github.com/wjie98/EmmaGNN" target="_blank" style="text-decoration: none">\[Code\] </a> \\
+  Wenjie Huang, **<u>Tongya Zheng</u>**, Rui Wang$^*$, Tongtian Zhu, Bingde Hu, Shuibing He, Mingli Song, Xinyu Wang, Sai Wu, Chun Chen.\\
+  IEEE Transactions on Knowledge and Data Engineering, 2025.
+
 - **Curriculum Negative Mining For Temporal Networks** <a href="https://arxiv.org/abs/2407.17070" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zziyue83/CurNM" target="_blank" style="text-decoration: none">\[Code\]</a>  \\
   Ziyue Chen, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
   Neural Networks, 2025.
@@ -150,6 +182,23 @@ Bingde Hu, Wenjie Huang, Tongya Zheng, Mingli Song$^*$, Ying Li
   Science China Information Sciences.
 
 ## Preprint
+
+- **Unifying Environment Perception and Route Choice Modeling for Trajectory Representation Learning** <a href="https://arxiv.org/abs/2510.14819" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://anonymous.4open.science/r/PRTraj" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Ji Cao, Yu Wang, **<u>Tongya Zheng</u>**$^*$, Zujie Ren, Canghong Jin, Gang Chen, Mingli Song. \\
+  arXiv preprint arXiv:2510.14819, 2025.
+
+- **Breaking the Exploration Bottleneck: Rubric-Scaffolded Reinforcement Learning for General LLM Reasoning** <a href="https://arxiv.org/abs/2508.16949" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/IANNXANG/RuscaRL" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Yang Zhou, Sunzhu Li, Shunyu Liu$^*$, Wenkai Fang, Kongcheng Zhang, Jiale Zhao, Jingwen Yang, Yihe Zhou, Jianwei Lv, **<u>Tongya Zheng</u>**, Hengtong Lu, Wei Chen, Yan Xie, Mingli Song. \\
+  arXiv preprint arXiv:2508.16949, 2025.
+
+- **Adaptive Location Hierarchy Learning for Long-Tailed Mobility Prediction** <a href="https://arxiv.org/abs/2505.19965" target="_blank" style="text-decoration: none">\[Paper\]</a> <" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Yu Wang, Junshu Dai, Yuchen Ying, Yuxuan Liang, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
+  arXiv preprint arXiv:2505.19965, 2025.
+
+- **Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems** <a href="https://arxiv.org/abs/2503.03505" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Yaoru Li, Shunyu Liu$^*$, **<u>Tongya Zheng</u>**, Mingli Song. \\
+  arXiv preprint arXiv:2503.03505, 2025.
+
 
 - **Graph-based Knowledge Distillation: A survey and experimental evaluation** <a href="https://arxiv.org/abs/2302.14643" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liujing1023/Graph-based-Knowledge-Distillation" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Jing Liu, **<u>Tongya Zheng</u>**, Guanzheng Zhang, Qinfen Hao$^*$. \\
