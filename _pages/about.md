@@ -66,9 +66,29 @@ Selected Publications
 
 $^*$ Corresponding author.
 
+- **Neural Graph Navigation for Intelligent Subgraph Matching** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Yuchen Ying, Yiyang Dai, Wenda Li, Wenjie Huang, Rui Wang, **<u>Tongya Zheng</u>**$^*$, Yu Wang, Hanyang Yuan, Mingli Song. \\
+  The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026.
+
+- **Dual-branch Spatial-Temporal Self-supervised Representation for Enhanced Road Network Learning** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Qinghong Guo, Yu Wang, Ji Cao, **<u>Tongya Zheng</u>**$^*$, Junshu Dai, Bingde Hu, Shunyu Liu, Canghong Jin. \\
+  The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026.
+
+- **Tree of Preferences for Diversified Recommendation** <a href="https://openreview.net/pdf/e026e2523a28ce8d1fb92eb33e565541d246a470.pdf" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Hanyang Yuan, Ning Tang, **<u>Tongya Zheng</u>**$^*$, Jiarong Xu$^*$, Xintong Hu, Renhong Huang, Shunyu Liu, Jiacong Hu, Jiawei Chen, and Mingli Song \\
+  The 39th Annual Conference on Neural Information Processing Systems, 2025.
+
+- **Efficient Distributed Graph Neural Network Training With Source Chunking and Moving Aggregation** <a href="https://ieeexplore.ieee.org/abstract/document/11177237" target="_blank" style="text-decoration: none">\[Paper\]</a>  <a href="https://github.com/wjie98/EmmaGNN" target="_blank" style="text-decoration: none">\[Code\] </a> \\
+  Wenjie Huang, **<u>Tongya Zheng</u>**, Rui Wang$^*$, Tongtian Zhu, Bingde Hu, Shuibing He, Mingli Song, Xinyu Wang, Sai Wu, Chun Chen.\\
+  IEEE Transactions on Knowledge and Data Engineering, 2025.
+
 - **Curriculum Negative Mining For Temporal Networks** <a href="https://arxiv.org/abs/2407.17070" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zziyue83/CurNM" target="_blank" style="text-decoration: none">\[Code\]</a>  \\
   Ziyue Chen, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
   Neural Networks, 2025.
+
+- **Adaptive Location Hierarchy Learning for Long-Tailed Mobility Prediction** <a href="https://arxiv.org/abs/2505.19965" target="_blank" style="text-decoration: none">\[Paper\]</a> <" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Yu Wang, Junshu Dai, Yuchen Ying, Yuxuan Liang, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
+  arXiv preprint arXiv:2505.19965, 2025.
 
 - **Odyssey : Empowering Minecraft Agents with Open-World Skills** <a href="https://arxiv.org/abs/2407.15325" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zju-vipa/Odyssey" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Shunyu Liu, Yaoru Li, Kongcheng Zhang, Zhenyu Cui, Wenkai Fang, Yuxuan Zheng, **<u>Tongya Zheng</u>**, Mingli Song$^*$. \\
