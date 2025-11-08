@@ -148,7 +148,7 @@ Awards & Honors
 ======
 
 ### Scholarship & Hornors
-  - Outstanding Graduate, Zhejiang University, 2020, 2021.
+  - Outstanding Graduate, Zhejiang University, 2019.
   - Academic Excellence Scholarship, Nanjing University of Science and Technology, 2017.
   - National Inspirational Scholarship, Nanjing University of Science and Technology, 2014, 2015.
 
@@ -161,12 +161,23 @@ Academic Services
 ### Journal Reviewer
   - ACM Transactions on Knowledge Discovery from Data
   - Expert Systems With Applicatins
+  - IEEE Transactions on Computational Social Systems
   - IEEE Transactions on Knowledge and Data Engineering
   - Information Sciences
   - Journal of Computer-Aided Design & Computer Graphics
   - Knowledge based Systems
+  - Neurocomputing
 
 ### Conference Reviewer
-  - AAAI 2024, CIKM 2024, ECAI 2024, ECML-PKDD 2024
-  - AAAI 2023, ECAI 2023, ECML-PKDD 2023
-  - ECML-PKDD 2020
+  - AAAI 2023, 2024, 2025, 2026
+  - CIKM 2024, 2025
+  - ECAI 2023, 2024, 2025
+  - ECML-PKDD 2020, 2023, 2024, 2025
+  - ICML 2025
+  - IJCAI 2025
+  - KDD 2025, 2026
+  - NeurIPS 2025
+  - SIGIR 2025
+  - SIGIR-AP 2025
+  - WSDM 2026
+  - WWW 2026
