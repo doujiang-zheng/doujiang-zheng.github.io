@@ -9,6 +9,14 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Conference
 
+- **Adaptive Location Hierarchy Learning for Long-Tailed Mobility Prediction** <a href="https://doi.org/10.1145/3774904.3792514" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Yu Wang, Junshu Dai, Yuchen Ying, Yuxuan Liang, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
+  The Web Conference (WWW), 2026.
+
+- **Parallelized Planning-Acting for Multi-Agent LLM Systems in Minecraft** <a href="https://doi.org/10.65109/exaj9853" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Yaoru Li, Shunyu Liu$^*$, **<u>Tongya Zheng</u>**, Li Sun, Mingli Song. \\
+  The 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026.
+
 - **Neural Graph Navigation for Intelligent Subgraph Matching**   \\
   Yuchen Ying, Yiyang Dai, Wenda Li, Wenjie Huang, Rui Wang, **<u>Tongya Zheng</u>**$^*$, Yu Wang, Hanyang Yuan, Mingli Song. \\
   The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026.
@@ -135,6 +143,10 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Journal
 
+- **Capturing Context-Aware Route Choice Semantics for Trajectory Representation Learning** <a href="https://doi.org/10.1109/tkde.2026.3708608" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://anonymous.4open.science/r/PRTraj" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Ji Cao, Yu Wang, **<u>Tongya Zheng</u>**$^*$, Jie Song, Qinghong Guo, Zujie Ren, Canghong Jin, Gang Chen, Mingli Song. \\
+  IEEE Transactions on Knowledge and Data Engineering, 2026.
+
 - **Efficient Distributed Graph Neural Network Training With Source Chunking and Moving Aggregation** <a href="https://ieeexplore.ieee.org/abstract/document/11177237" target="_blank" style="text-decoration: none">\[Paper\]</a>  <a href="https://github.com/wjie98/EmmaGNN" target="_blank" style="text-decoration: none">\[Code\] </a> \\
   Wenjie Huang, **<u>Tongya Zheng</u>**, Rui Wang$^*$, Tongtian Zhu, Bingde Hu, Shuibing He, Mingli Song, Xinyu Wang, Sai Wu, Chun Chen.\\
   IEEE Transactions on Knowledge and Data Engineering, 2025.
@@ -181,21 +193,9 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Preprint
 
-- **Unifying Environment Perception and Route Choice Modeling for Trajectory Representation Learning** <a href="https://arxiv.org/abs/2510.14819" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://anonymous.4open.science/r/PRTraj" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  Ji Cao, Yu Wang, **<u>Tongya Zheng</u>**$^*$, Zujie Ren, Canghong Jin, Gang Chen, Mingli Song. \\
-  arXiv preprint arXiv:2510.14819, 2025.
-
 - **Breaking the Exploration Bottleneck: Rubric-Scaffolded Reinforcement Learning for General LLM Reasoning** <a href="https://arxiv.org/abs/2508.16949" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/IANNXANG/RuscaRL" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yang Zhou, Sunzhu Li, Shunyu Liu$^*$, Wenkai Fang, Kongcheng Zhang, Jiale Zhao, Jingwen Yang, Yihe Zhou, Jianwei Lv, **<u>Tongya Zheng</u>**, Hengtong Lu, Wei Chen, Yan Xie, Mingli Song. \\
   arXiv preprint arXiv:2508.16949, 2025.
-
-- **Adaptive Location Hierarchy Learning for Long-Tailed Mobility Prediction** <a href="https://arxiv.org/abs/2505.19965" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
-  Yu Wang, Junshu Dai, Yuchen Ying, Yuxuan Liang, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
-  arXiv preprint arXiv:2505.19965, 2025.
-
-- **Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems** <a href="https://arxiv.org/abs/2503.03505" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
-  Yaoru Li, Shunyu Liu$^*$, **<u>Tongya Zheng</u>**, Mingli Song. \\
-  arXiv preprint arXiv:2503.03505, 2025.
 
 
 - **Graph-based Knowledge Distillation: A survey and experimental evaluation** <a href="https://arxiv.org/abs/2302.14643" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liujing1023/Graph-based-Knowledge-Distillation" target="_blank" style="text-decoration: none">\[Code\]</a> \\

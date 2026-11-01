@@ -14,6 +14,8 @@ redirect_from:
 
 News
 ======
+- Jan. 2026: One paper was accepted by <a href="https://www2026.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2026</a>.
+- Dec. 2025: One paper was accepted by <a href="https://cyprusconferences.org/aamas2026/" target="_blank" style="text-decoration: none">AAMAS 2026</a>.
 - Oct. 2025: Two papers were accepted by <a href="https://aaai.org/conference/aaai/aaai-26/" target="_blank" style="text-decoration: none">AAAI 2026</a>.
 - Sep. 2025: Three papers were accepted by <a href="https://neurips.cc/virtual/2025/loc/san-diego/papers.html" target="_blank" style="text-decoration: none">NeurIPS 2025</a>.
 - Sep. 2025: One paper was accepted by <a href="https://ieeexplore.ieee.org/abstract/document/11177237/" target="_blank" style="text-decoration: none">IEEE TKDE</a>.
