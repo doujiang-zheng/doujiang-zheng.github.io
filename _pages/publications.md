@@ -9,6 +9,26 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Conference
 
+- **GraphScout: Empowering Large Language Models with Intrinsic Exploration Ability for Agentic Graph Reasoning** <a href="https://doi.org/10.1145/3770855.3817937" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Ying-Yuchen/_GraphScout_" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Yuchen Ying, Weiqi Jiang, **<u>Tongya Zheng</u>**, Yu Wang, Shunyu Liu, Kaixuan Chen, Mingli Song. \\
+  The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.
+
+- **Temporal Motif-aware Graph Test-time Adaptation for OOD Blockchain Anomaly Detection** <a href="https://doi.org/10.24963/ijcai.2026/802" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/LuoXishuang0712/TEMG-TTA/" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Runang He, **<u>Tongya Zheng</u>**, Huiling Peng, Yuanyu Wan, Bingde Hu, Jiawei Chen, Canghong Jin, Mingli Song, Can Wang. \\
+  The 35th International Joint Conference on Artificial Intelligence (IJCAI), 2026.
+
+- **Learnable Data Augmentation and Contrastive Pre-training for Temporal Link Prediction** <a href="https://doi.org/10.24963/ijcai.2026/303" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Canghong Jin, Jiafeng Zhao, Feng Xu, **<u>Tongya Zheng</u>**, Zemin Liu, Lina Wei, Mingli Song. \\
+  The 35th International Joint Conference on Artificial Intelligence (IJCAI), 2026.
+
+- **FlareDTDG: Harnessing Temporal Recency for Scalable Discrete-Time Dynamic Graph Training** <a href="https://doi.org/10.14778/3801059.3801073" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Wenjie Huang, Rui Wang, Jing Cao, **<u>Tongya Zheng</u>**, Xinyu Wang, Mingli Song, Sai Wu, Chun Chen. \\
+  The 52nd International Conference on Very Large Data Bases (VLDB), 2026.
+
+- **Physics-Informed Diffusion Generation for Geomagnetic Map Interpolation** <a href="https://doi.org/10.1109/icassp55912.2026.11461739" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Wenda Li, **<u>Tongya Zheng</u>**, Kaixuan Chen, Shunyu Liu, Haoze Jiang, Yunzhi Hao, Rui Miao, Zujie Ren, Mingli Song, Hang Shi, Gang Chen. \\
+  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026.
+
 - **Adaptive Location Hierarchy Learning for Long-Tailed Mobility Prediction** <a href="https://doi.org/10.1145/3774904.3792514" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Yu Wang, Junshu Dai, Yuchen Ying, Yuxuan Liang, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
   The Web Conference (WWW), 2026.
@@ -56,6 +76,10 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 - **CADP: Towards Better Centralized Learning for Decentralized Execution in MARL** <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yihe Zhou$^\dagger$, Shunyu Liu$^{\dagger *}$, Yunpeng Qing, Kaixuan Chen, **<u>Tongya Zheng</u>**, Yanhao Huang, Jie Song, Mingli Song. \\
   The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025.
+
+- **Quick Sense Temporal Graph Transformer with Effective Representation Augmentation** <a href="https://doi.org/10.1109/ijcnn64981.2025.11227707" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Ziqi Huang, **<u>Tongya Zheng</u>**, Rui Wang, Longjiao Zhang, Wenjie Huang, Xinyu Wang. \\
+  2025 International Joint Conference on Neural Networks (IJCNN), 2025.
 
 - **From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks** <a href="https://openreview.net/forum?id=KEUPk0wXXe" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/dutyj2020/TIF" target="_blank" style="text-decoration: none">\[Code\]</a>\\
   Jie Yang, Yuwen Wang, Kaixuan Chen, **<u>Tongya Zheng</u>**, Yihe Zhou, Zhenbang Xiao, Ji Cao, Mingli Song, Shunyu Liu$^*$. \\

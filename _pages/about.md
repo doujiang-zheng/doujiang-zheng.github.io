@@ -14,6 +14,10 @@ redirect_from:
 
 News
 ======
+- May. 2026: One paper was accepted by <a href="https://kdd2026.kdd.org/" target="_blank" style="text-decoration: none">KDD 2026</a>.
+- Apr. 2026: Two papers were accepted by <a href="https://2026.ijcai.org/" target="_blank" style="text-decoration: none">IJCAI 2026</a>.
+- Feb. 2026: One paper was accepted by <a href="https://www.vldb.org/2026/" target="_blank" style="text-decoration: none">VLDB 2026</a>.
+- Jan. 2026: One paper was accepted by <a href="https://2026.ieeeicassp.org/" target="_blank" style="text-decoration: none">ICASSP 2026</a>.
 - Jan. 2026: One paper was accepted by <a href="https://www2026.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2026</a>.
 - Dec. 2025: One paper was accepted by <a href="https://cyprusconferences.org/aamas2026/" target="_blank" style="text-decoration: none">AAMAS 2026</a>.
 - Oct. 2025: Two papers were accepted by <a href="https://aaai.org/conference/aaai/aaai-26/" target="_blank" style="text-decoration: none">AAAI 2026</a>.
@@ -22,6 +26,7 @@ News
 - Aug. 2025: One paper was accepted by <a href="https://iconip2025.apnns.org/" target="_blank" style="text-decoration: none">ICONIP 2025</a>.
 - May. 2025: One paper was accepted by <a href="https://vldb.org/2025/" target="_blank" style="text-decoration: none">VLDB 2025</a>.
 - Apr. 2025: Three papers were accepted by <a href="https://2025.ijcai.org/" target="_blank" style="text-decoration: none">IJCAI 2025</a>.
+- Mar. 2025: One paper was accepted by <a href="https://2025.ijcnn.org/" target="_blank" style="text-decoration: none">IJCNN 2025</a>.
 - Jan. 2025: One paper was accepted by <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425001289" target="_blank" style="text-decoration: none">ESWA</a>.
 - Jan. 2025: One paper was accepted by <a href="https://iclr.cc/Conferences/2025/" target="_blank" style="text-decoration: none">ICLR 2025</a>.
 - Jan. 2025: One paper was accepted by <a href="https://www2025.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2025</a>.
