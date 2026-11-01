@@ -9,9 +9,17 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Conference
 
+- **NINJA: A Navigator–Inspector Joint Architecture for Context-Efficient Issue Localization** <a href="https://openreview.net/forum?id=OCikE8Xieh" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/wantbook-book/NINJA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Wenkai Fang, Shunyu Liu, Wei Luo, Zihao Wu, Yang Zhou, **<u>Tongya Zheng</u>**, Wotao Yin, Jialie Shen, Leszek Rutkowski, Mingli Song, Dacheng Tao. \\
+  The 40th Annual Conference on Neural Information Processing Systems (NeurIPS), 2026.
+
 - **GraphScout: Empowering Large Language Models with Intrinsic Exploration Ability for Agentic Graph Reasoning** <a href="https://doi.org/10.1145/3770855.3817937" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Ying-Yuchen/_GraphScout_" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yuchen Ying, Weiqi Jiang, **<u>Tongya Zheng</u>**, Yu Wang, Shunyu Liu, Kaixuan Chen, Mingli Song. \\
   The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.
+
+- **Breaking the Exploration Bottleneck: Rubric-Scaffolded Reinforcement Learning for General LLM Reasoning** <a href="https://arxiv.org/abs/2508.16949" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/IANNXANG/RuscaRL" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Yang Zhou, Sunzhu Li, Shunyu Liu$^*$, Wenkai Fang, Kongcheng Zhang, Jiale Zhao, Jingwen Yang, Yihe Zhou, Jianwei Lv, **<u>Tongya Zheng</u>**, Hengtong Lu, Wei Chen, Yan Xie, Mingli Song. \\
+  The 43rd International Conference on Machine Learning (ICML), 2026.
 
 - **Temporal Motif-aware Graph Test-time Adaptation for OOD Blockchain Anomaly Detection** <a href="https://doi.org/10.24963/ijcai.2026/802" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/LuoXishuang0712/TEMG-TTA/" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Runang He, **<u>Tongya Zheng</u>**, Huiling Peng, Yuanyu Wan, Bingde Hu, Jiawei Chen, Canghong Jin, Mingli Song, Can Wang. \\
@@ -240,10 +248,6 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 - **Learning Multi-Modal Mobility Dynamics for Generalized Next Location Recommendation** <a href="https://arxiv.org/abs/2512.22605" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Junshu Dai, Yu Wang, **<u>Tongya Zheng</u>**, Wei Ji, Qinghong Guo, Ji Cao, Jie Song, Canghong Jin, Mingli Song. \\
   arXiv preprint arXiv:2512.22605, 2025.
-
-- **Breaking the Exploration Bottleneck: Rubric-Scaffolded Reinforcement Learning for General LLM Reasoning** <a href="https://arxiv.org/abs/2508.16949" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/IANNXANG/RuscaRL" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  Yang Zhou, Sunzhu Li, Shunyu Liu$^*$, Wenkai Fang, Kongcheng Zhang, Jiale Zhao, Jingwen Yang, Yihe Zhou, Jianwei Lv, **<u>Tongya Zheng</u>**, Hengtong Lu, Wei Chen, Yan Xie, Mingli Song. \\
-  arXiv preprint arXiv:2508.16949, 2025.
 
 
 - **Graph-based Knowledge Distillation: A survey and experimental evaluation** <a href="https://arxiv.org/abs/2302.14643" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liujing1023/Graph-based-Knowledge-Distillation" target="_blank" style="text-decoration: none">\[Code\]</a> \\
