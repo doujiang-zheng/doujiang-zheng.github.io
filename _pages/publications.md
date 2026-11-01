@@ -13,6 +13,10 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
   Wenkai Fang, Shunyu Liu, Wei Luo, Zihao Wu, Yang Zhou, **<u>Tongya Zheng</u>**, Wotao Yin, Jialie Shen, Leszek Rutkowski, Mingli Song, Dacheng Tao. \\
   The 40th Annual Conference on Neural Information Processing Systems (NeurIPS), 2026.
 
+- **Capturing Collaborative Structure in Graph Anomaly Detection by MoE-Gated Neural Common Neighbor** <a href="https://doi.org/10.1145/3799682.3840810" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/JoyyiePeng/MCNA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Huiling Peng, **<u>Tongya Zheng</u>**, Runang He, Jing Cao$^*$, Jiawei Chen, Canghong Jin, Mingli Song, Can Wang. \\
+  The 35th ACM International Conference on Information and Knowledge Management (CIKM), 2026.
+
 - **GraphScout: Empowering Large Language Models with Intrinsic Exploration Ability for Agentic Graph Reasoning** <a href="https://doi.org/10.1145/3770855.3817937" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Ying-Yuchen/_GraphScout_" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yuchen Ying, Weiqi Jiang, **<u>Tongya Zheng</u>**, Yu Wang, Shunyu Liu, Kaixuan Chen, Mingli Song. \\
   The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.

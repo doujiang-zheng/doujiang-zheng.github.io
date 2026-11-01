@@ -15,6 +15,7 @@ redirect_from:
 News
 ======
 - Sep. 2026: One paper was accepted by <a href="https://neurips.cc/Conferences/2026/" target="_blank" style="text-decoration: none">NeurIPS 2026</a>.
+- Aug. 2026: One paper was accepted by <a href="https://cikm2026.diag.uniroma1.it/" target="_blank" style="text-decoration: none">CIKM 2026</a>.
 - May. 2026: One paper was accepted by <a href="https://kdd2026.kdd.org/" target="_blank" style="text-decoration: none">KDD 2026</a>.
 - Apr. 2026: One paper was accepted by <a href="https://icml.cc/Conferences/2026/" target="_blank" style="text-decoration: none">ICML 2026</a>.
 - Apr. 2026: Two papers were accepted by <a href="https://2026.ijcai.org/" target="_blank" style="text-decoration: none">IJCAI 2026</a>.
