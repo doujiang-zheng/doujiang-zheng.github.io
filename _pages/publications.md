@@ -217,6 +217,30 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Preprint
 
+- **S-GAP: Stealthy Graph Attack Primitives for Graph Large Language Models** <a href="https://arxiv.org/abs/2610.23465" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Wenda Li, **<u>Tongya Zheng</u>**, Shunyu Liu, Hanyang Yuan, Kaixuan Chen, Yu Wang, Yuchen Ying, Haoze Jiang, Huan Li, Gang Chen, Zujie Ren. \\
+  arXiv preprint arXiv:2610.23465, 2026.
+
+- **CryptoFlowBench: Benchmarking Multi-Hop Reasoning on Blockchains for Cryptocurrency Fund Tracing** <a href="https://arxiv.org/abs/2610.16449" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Runang He, **<u>Tongya Zheng</u>**, Jing Cao, Yucheng Ying, Shunyu Liu, Bingde Hu, Yang Gao, Zeyuan Hu, Jianrong Zhang, Mingli Song. \\
+  arXiv preprint arXiv:2610.16449, 2026.
+
+- **GraphCert: Bootstrap Agentic Graph Reasoning with Certified Evidence Rubrics** <a href="https://arxiv.org/abs/2609.38798" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Weiqi Jiang, Yuchen Ying, Rui Wang, Kaixuan Chen, Bingde Hu, Shunyu Liu, Yu Wang, **<u>Tongya Zheng</u>**. \\
+  arXiv preprint arXiv:2609.38798, 2026.
+
+- **CodeTS: Verifiable Text-to-Time Series Generation via Executable Code** <a href="https://arxiv.org/abs/2609.15393" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Xudong Yuan, Shunyu Liu, **<u>Tongya Zheng</u>**, Huiping Zhuang, Mingli Song, Kaixuan Chen. \\
+  arXiv preprint arXiv:2609.15393, 2026.
+
+- **Making Collaborative Signals Count: Graph-Aware Large Language Models for Sequential Recommendation** <a href="https://arxiv.org/abs/2608.12184" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Fenglin-miku/GALLM" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Fenglin Yan, Bohao Wang, Jian Zhang, Yu Cui, **<u>Tongya Zheng</u>**, Ye Feng, Can Wang, Jiawei Chen. \\
+  arXiv preprint arXiv:2608.12184, 2026.
+
+- **Learning Multi-Modal Mobility Dynamics for Generalized Next Location Recommendation** <a href="https://arxiv.org/abs/2512.22605" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Junshu Dai, Yu Wang, **<u>Tongya Zheng</u>**, Wei Ji, Qinghong Guo, Ji Cao, Jie Song, Canghong Jin, Mingli Song. \\
+  arXiv preprint arXiv:2512.22605, 2025.
+
 - **Breaking the Exploration Bottleneck: Rubric-Scaffolded Reinforcement Learning for General LLM Reasoning** <a href="https://arxiv.org/abs/2508.16949" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/IANNXANG/RuscaRL" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yang Zhou, Sunzhu Li, Shunyu Liu$^*$, Wenkai Fang, Kongcheng Zhang, Jiale Zhao, Jingwen Yang, Yihe Zhou, Jianwei Lv, **<u>Tongya Zheng</u>**, Hengtong Lu, Wei Chen, Yan Xie, Mingli Song. \\
   arXiv preprint arXiv:2508.16949, 2025.
