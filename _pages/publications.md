@@ -9,15 +9,15 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Conference
 
-- **Neural Graph Navigation for Intelligent Subgraph Matching** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+- **Neural Graph Navigation for Intelligent Subgraph Matching**   \\
   Yuchen Ying, Yiyang Dai, Wenda Li, Wenjie Huang, Rui Wang, **<u>Tongya Zheng</u>**$^*$, Yu Wang, Hanyang Yuan, Mingli Song. \\
   The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026.
 
-- **Dual-branch Spatial-Temporal Self-supervised Representation for Enhanced Road Network Learning** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+- **Dual-branch Spatial-Temporal Self-supervised Representation for Enhanced Road Network Learning**   \\
   Qinghong Guo, Yu Wang, Ji Cao, **<u>Tongya Zheng</u>**$^*$, Junshu Dai, Bingde Hu, Shunyu Liu, Canghong Jin. \\
   The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026.
 
-- **Tree of Preferences for Diversified Recommendation** <a href="https://openreview.net/pdf/e026e2523a28ce8d1fb92eb33e565541d246a470.pdf" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+- **Tree of Preferences for Diversified Recommendation** <a href="https://openreview.net/pdf/e026e2523a28ce8d1fb92eb33e565541d246a470.pdf" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
   Hanyang Yuan, Ning Tang, **<u>Tongya Zheng</u>**$^*$, Jiarong Xu$^*$, Xintong Hu, Renhong Huang, Shunyu Liu, Jiacong Hu, Jiawei Chen, and Mingli Song \\
   The 39th Annual Conference on Neural Information Processing Systems, 2025.
 
@@ -29,15 +29,15 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
   Hanwen Liu, Longjiao Zhang, Rui Wang$^*$, **<u>Tongya Zheng</u>**, Sai Wu, Chang Yao, and Mingli Song \\
   The 39th Annual Conference on Neural Information Processing Systems, 2025.
 
-- **Binning Encoder-based Grouped Aggregation for Network Traffic Anomaly Detection** <a href="https://openreview.net/forum?id=0HSS43M1Qj" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+- **Binning Encoder-based Grouped Aggregation for Network Traffic Anomaly Detection** <a href="https://openreview.net/forum?id=0HSS43M1Qj" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
   Lingyao Lu, **<u>Tongya Zheng</u>**, Haoye Wang$^*$, Zunlei Feng, and Mingli Song \\
   The 39th Annual Conference on Neural Information Processing Systems, 2025.
 
-- **Effective and Efficient Distributed Temporal Graph Learning through Hotspot Memory Sharing** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+- **Effective and Efficient Distributed Temporal Graph Learning through Hotspot Memory Sharing**   \\
   Longjiao Zhang, Rui Wang$^*$, **<u>Tongya Zheng</u>**, Ziqi Huang, Wenjie Huang, Xinyu Wang, Can Wang, Mingli Song, Sai Wu, Shuibing He. \\
-  The 51st International Conference on Very Large Data BasesLondon (VLDB), 2025.
+  The 51st International Conference on Very Large Data Bases (VLDB), 2025.
 
-- **Efficient Dynamic Graphs Learning with Refined Batch Parallel Training** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+- **Efficient Dynamic Graphs Learning with Refined Batch Parallel Training**   \\
   Zhengzhao Feng, Rui Wang$^*$, Longjiao Zhang, **<u>Tongya Zheng</u>**, Ziqi Huang, Mingli Song. \\
   The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025.
 
@@ -77,7 +77,7 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
   Mingjiang Duan, Da He, **<u>Tongya Zheng</u>**, Lingxiang Jia, Mingli Song, Xinyu Wang, Zunlei Fen$^*$g. \\
   The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.
 
-- **Unified Mask Graph Modeling for Incomplete Tabular Learning** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+- **Unified Mask Graph Modeling for Incomplete Tabular Learning**  \\
   Na Yu, **<u>Tongya Zheng</u>**$^*$, Kaixuan Chen, Shunyu Liu, Mingli Song. \\
   The 31st International Conference on Neural Information Processing (ICONIP), 2024.
 
@@ -105,13 +105,11 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
   Mingjiang Duan, **<u>Tongya Zheng</u>**, Yang Gao, Gang Wang, Zunlei Feng$^*$, Xinyu Wang. \\
   AAAI Conference on Artificial Intelligence (AAAI), 2024.
 
-- **Disentangling Node Metric Factors for Temporal Link Prediction** <a href="https://link.springer.com/chapter/10.1007/978-981-99-8082-6_27
-" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+- **Disentangling Node Metric Factors for Temporal Link Prediction** <a href="https://link.springer.com/chapter/10.1007/978-981-99-8082-6_27" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Tianli Zhang, **<u>Tongya Zheng</u>**, Yuanyu Wan$^*$, Ying Li, Wenqi Huang.
   International Conference on Neural Information Processing (ICONIP), 2023.
  
-- **Heterogeneous Graph Prototypical Networks for Few-Shot Node Classification** <a href="
-https://link.springer.com/chapter/10.1007/978-981-99-8132-8_41" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+- **Heterogeneous Graph Prototypical Networks for Few-Shot Node Classification** <a href="https://link.springer.com/chapter/10.1007/978-981-99-8132-8_41" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Yunzhi Hao$^*$ , Mengfan Wang, Xingen Wang, **<u>Tongya Zheng</u>**, Xinyu Wang, Wenqi Huang, Chun Chen. \\
   International Conference on Neural Information Processing (ICONIP), 2023.
 
@@ -123,9 +121,9 @@ https://link.springer.com/chapter/10.1007/978-981-99-8132-8_41" target="_blank" 
   Kaixuan Chen$^\dagger$, Shunyu Liu$^\dagger$, Tongtian Zhu$^\dagger$, Ji Qiao, Yun Su, Yingjie Tian, **<u>Tongya Zheng</u>**, Haofei Zhang, Zunlei Feng, Jingwen Ye$^*$, Mingli Song. \\
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
 
-- **A General Heterogeneous Hypergraph Neural Network for Node Classification** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-Bingde Hu, Wenjie Huang, Tongya Zheng, Mingli Song$^*$, Ying Li
-2023 International Joint Conference on Neural Networks (IJCNN), 2023.
+- **A General Heterogeneous Hypergraph Neural Network for Node Classification**   \\
+  Bingde Hu, Wenjie Huang, Tongya Zheng, Mingli Song$^*$, Ying Li \\
+  2023 International Joint Conference on Neural Networks (IJCNN), 2023.
 
 - **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition** <a href="https://arxiv.org/abs/2211.12712" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/CIA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Shunyu Liu$^\dagger$, Yihe Zhou$^\dagger$, Jie Song, **<u>Tongya Zheng</u>**, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song$^*$.\\
@@ -191,11 +189,11 @@ Bingde Hu, Wenjie Huang, Tongya Zheng, Mingli Song$^*$, Ying Li
   Yang Zhou, Sunzhu Li, Shunyu Liu$^*$, Wenkai Fang, Kongcheng Zhang, Jiale Zhao, Jingwen Yang, Yihe Zhou, Jianwei Lv, **<u>Tongya Zheng</u>**, Hengtong Lu, Wei Chen, Yan Xie, Mingli Song. \\
   arXiv preprint arXiv:2508.16949, 2025.
 
-- **Adaptive Location Hierarchy Learning for Long-Tailed Mobility Prediction** <a href="https://arxiv.org/abs/2505.19965" target="_blank" style="text-decoration: none">\[Paper\]</a> <" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+- **Adaptive Location Hierarchy Learning for Long-Tailed Mobility Prediction** <a href="https://arxiv.org/abs/2505.19965" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Yu Wang, Junshu Dai, Yuchen Ying, Yuxuan Liang, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
   arXiv preprint arXiv:2505.19965, 2025.
 
-- **Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems** <a href="https://arxiv.org/abs/2503.03505" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+- **Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems** <a href="https://arxiv.org/abs/2503.03505" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
   Yaoru Li, Shunyu Liu$^*$, **<u>Tongya Zheng</u>**, Mingli Song. \\
   arXiv preprint arXiv:2503.03505, 2025.
 

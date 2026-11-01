@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Assitant Professor** \| **Big Graph Center** \| **Hangzhou City University**
+**Assistant Professor** \| **Big Graph Center** \| **Hangzhou City University**
 
 <br>
 
@@ -51,7 +51,7 @@ News
 Biography
 ======
 
-I am currently working as a tenure-track Assitant Professor at <a href="http://biggraph.hzcu.edu.cn/col/col8923/index.html" target="_blank" style="text-decoration: none">Big Graph Center</a>, School of Computer and Computing Science @ <a href="http://english.hzcu.edu.cn/" target="_blank" style="text-decoration: none">Hangzhou City University</a>. I obtained my Ph.D. degree from the Colledge of Computer Science and Technology, <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a>, in 2023 under the supervision of Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a> and Prof. <a href="https://person.zju.edu.cn/en/0082004" target="_blank" style="text-decoration: none">Chun Chen</a>. Prior to that, I recieved the B.Eng. degree from <a href="https://english.njust.edu.cn/" target="_blank" style="text-decoration: none">Nanjing University of Science and Technology</a>, in 2017. Please feel free to contact me if you are interested in my research :)
+I am currently working as a tenure-track Assistant Professor at <a href="http://biggraph.hzcu.edu.cn/col/col8923/index.html" target="_blank" style="text-decoration: none">Big Graph Center</a>, School of Computer and Computing Science @ <a href="http://english.hzcu.edu.cn/" target="_blank" style="text-decoration: none">Hangzhou City University</a>. I obtained my Ph.D. degree from the College of Computer Science and Technology, <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a>, in 2023 under the supervision of Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a> and Prof. <a href="https://person.zju.edu.cn/en/0082004" target="_blank" style="text-decoration: none">Chun Chen</a>. Prior to that, I received the B.Eng. degree from <a href="https://english.njust.edu.cn/" target="_blank" style="text-decoration: none">Nanjing University of Science and Technology</a>, in 2017. Please feel free to contact me if you are interested in my research :)
 
 My current research interests include 
 - **agentic graph reasoning**
@@ -66,15 +66,15 @@ Selected Publications
 
 $^*$ Corresponding author.
 
-- **Neural Graph Navigation for Intelligent Subgraph Matching** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+- **Neural Graph Navigation for Intelligent Subgraph Matching**   \\
   Yuchen Ying, Yiyang Dai, Wenda Li, Wenjie Huang, Rui Wang, **<u>Tongya Zheng</u>**$^*$, Yu Wang, Hanyang Yuan, Mingli Song. \\
   The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026.
 
-- **Dual-branch Spatial-Temporal Self-supervised Representation for Enhanced Road Network Learning** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+- **Dual-branch Spatial-Temporal Self-supervised Representation for Enhanced Road Network Learning**   \\
   Qinghong Guo, Yu Wang, Ji Cao, **<u>Tongya Zheng</u>**$^*$, Junshu Dai, Bingde Hu, Shunyu Liu, Canghong Jin. \\
   The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026.
 
-- **Tree of Preferences for Diversified Recommendation** <a href="https://openreview.net/pdf/e026e2523a28ce8d1fb92eb33e565541d246a470.pdf" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+- **Tree of Preferences for Diversified Recommendation** <a href="https://openreview.net/pdf/e026e2523a28ce8d1fb92eb33e565541d246a470.pdf" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
   Hanyang Yuan, Ning Tang, **<u>Tongya Zheng</u>**$^*$, Jiarong Xu$^*$, Xintong Hu, Renhong Huang, Shunyu Liu, Jiacong Hu, Jiawei Chen, and Mingli Song \\
   The 39th Annual Conference on Neural Information Processing Systems, 2025.
 
@@ -86,7 +86,7 @@ $^*$ Corresponding author.
   Ziyue Chen, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
   Neural Networks, 2025.
 
-- **Adaptive Location Hierarchy Learning for Long-Tailed Mobility Prediction** <a href="https://arxiv.org/abs/2505.19965" target="_blank" style="text-decoration: none">\[Paper\]</a> <" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+- **Adaptive Location Hierarchy Learning for Long-Tailed Mobility Prediction** <a href="https://arxiv.org/abs/2505.19965" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Yu Wang, Junshu Dai, Yuchen Ying, Yuxuan Liang, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
   arXiv preprint arXiv:2505.19965, 2025.
 
@@ -106,7 +106,7 @@ $^*$ Corresponding author.
   Ji Cao, **<u>Tongya Zheng</u>**$^*$, Qinghong Guo, Yu Wang, Junshu Dai, Shunyu Liu, Jie Yang, Jie Song, Mingli Song. \\
   The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.
 
-- **Unified Mask Graph Modeling for Incomplete Tabular Learning** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+- **Unified Mask Graph Modeling for Incomplete Tabular Learning**  \\
   Na Yu, **<u>Tongya Zheng</u>**$^*$, Kaixuan Chen, Shunyu Liu, Mingli Song. \\
   The 31st International Conference on Neural Information Processing (ICONIP), 2024.
 
@@ -147,7 +147,7 @@ $^*$ Corresponding author.
 Awards & Honors
 ======
 
-### Scholarship & Hornors
+### Scholarship & Honors
   - Outstanding Graduate, Zhejiang University, 2019.
   - Academic Excellence Scholarship, Nanjing University of Science and Technology, 2017.
   - National Inspirational Scholarship, Nanjing University of Science and Technology, 2014, 2015.
@@ -160,7 +160,7 @@ Academic Services
 
 ### Journal Reviewer
   - ACM Transactions on Knowledge Discovery from Data
-  - Expert Systems With Applicatins
+  - Expert Systems With Applications
   - IEEE Transactions on Computational Social Systems
   - IEEE Transactions on Knowledge and Data Engineering
   - Information Sciences

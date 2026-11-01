@@ -11,32 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in Nanjing University of Science and Technology, 2017
-* Ph.D in Zhejiang University, 2023
+* Ph.D. in Computer Science and Technology, Zhejiang University, 2023
+* B.Eng. in Computer Science and Technology, Nanjing University of Science and Technology, 2017
 
 Work experience
 ======
-* Postdoc in Hangzhou City University, 2023-2025
-* Assitant Professor in Hangzhou City University, 2025-present
-  
+* Assistant Professor, Hangzhou City University, 2025–present
+* Postdoctoral Researcher, Hangzhou City University, 2023–2025
+
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+See the full list on the [Publications](/publications/) page.
+
+Academic Services
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Journal reviewer for IEEE TKDE, ACM TKDD, Information Sciences, Knowledge-Based Systems, Neurocomputing, and others. Program committee member for AAAI, IJCAI, KDD, NeurIPS, ICML, WWW, CIKM, WSDM, and ECML-PKDD.
