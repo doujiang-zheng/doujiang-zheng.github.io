@@ -66,6 +66,7 @@ I am currently working as a tenure-track Assistant Professor at <a href="http://
 My current research interests include 
 - **agentic graph reasoning**
 - **graph foundation model**
+- **blockchain anomaly detection**
 - **urban computing**
 - **trajectory representation learning**
 
