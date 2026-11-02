@@ -76,6 +76,18 @@ Selected Publications
 
 $^*$ Corresponding author.
 
+- **GraphScout: Empowering Large Language Models with Intrinsic Exploration Ability for Agentic Graph Reasoning** <a href="https://doi.org/10.1145/3770855.3817937" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Ying-Yuchen/_GraphScout_" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Yuchen Ying, Weiqi Jiang, **<u>Tongya Zheng</u>**, Yu Wang, Shunyu Liu, Kaixuan Chen, Mingli Song. \\
+  The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.
+
+- **FlareDTDG: Harnessing Temporal Recency for Scalable Discrete-Time Dynamic Graph Training** <a href="https://doi.org/10.14778/3801059.3801073" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Wenjie Huang, Rui Wang, Jing Cao, **<u>Tongya Zheng</u>**, Xinyu Wang, Mingli Song, Sai Wu, Chun Chen. \\
+  The 52nd International Conference on Very Large Data Bases (VLDB), 2026.
+
+- **Adaptive Location Hierarchy Learning for Long-Tailed Mobility Prediction** <a href="https://doi.org/10.1145/3774904.3792514" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  Yu Wang, Junshu Dai, Yuchen Ying, Yuxuan Liang, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
+  The Web Conference (WWW), 2026.
+
 - **Neural Graph Navigation for Intelligent Subgraph Matching**   \\
   Yuchen Ying, Yiyang Dai, Wenda Li, Wenjie Huang, Rui Wang, **<u>Tongya Zheng</u>**$^*$, Yu Wang, Hanyang Yuan, Mingli Song. \\
   The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026.
@@ -95,10 +107,6 @@ $^*$ Corresponding author.
 - **Curriculum Negative Mining For Temporal Networks** <a href="https://arxiv.org/abs/2407.17070" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zziyue83/CurNM" target="_blank" style="text-decoration: none">\[Code\]</a>  \\
   Ziyue Chen, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
   Neural Networks, 2025.
-
-- **Adaptive Location Hierarchy Learning for Long-Tailed Mobility Prediction** <a href="https://arxiv.org/abs/2505.19965" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
-  Yu Wang, Junshu Dai, Yuchen Ying, Yuxuan Liang, **<u>Tongya Zheng</u>**$^*$, Mingli Song. \\
-  arXiv preprint arXiv:2505.19965, 2025.
 
 - **Odyssey : Empowering Minecraft Agents with Open-World Skills** <a href="https://arxiv.org/abs/2407.15325" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zju-vipa/Odyssey" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Shunyu Liu, Yaoru Li, Kongcheng Zhang, Zhenyu Cui, Wenkai Fang, Yuxuan Zheng, **<u>Tongya Zheng</u>**, Mingli Song$^*$. \\
