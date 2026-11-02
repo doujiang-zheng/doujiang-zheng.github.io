@@ -76,9 +76,17 @@ Selected Publications
 
 $^*$ Corresponding author.
 
+- **Capturing Collaborative Structure in Graph Anomaly Detection by MoE-Gated Neural Common Neighbor** <a href="https://doi.org/10.1145/3799682.3840810" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/JoyyiePeng/MCNA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Huiling Peng, **<u>Tongya Zheng</u>**, Runang He, Jing Cao$^*$, Jiawei Chen, Canghong Jin, Mingli Song, Can Wang. \\
+  The 35th ACM International Conference on Information and Knowledge Management (CIKM), 2026.
+
 - **GraphScout: Empowering Large Language Models with Intrinsic Exploration Ability for Agentic Graph Reasoning** <a href="https://doi.org/10.1145/3770855.3817937" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Ying-Yuchen/_GraphScout_" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yuchen Ying, Weiqi Jiang, **<u>Tongya Zheng</u>**, Yu Wang, Shunyu Liu, Kaixuan Chen, Mingli Song. \\
   The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.
+
+- **Temporal Motif-aware Graph Test-time Adaptation for OOD Blockchain Anomaly Detection** <a href="https://doi.org/10.24963/ijcai.2026/802" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/LuoXishuang0712/TEMG-TTA/" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Runang He, **<u>Tongya Zheng</u>**, Huiling Peng, Yuanyu Wan, Bingde Hu, Jiawei Chen, Canghong Jin, Mingli Song, Can Wang. \\
+  The 35th International Joint Conference on Artificial Intelligence (IJCAI), 2026.
 
 - **FlareDTDG: Harnessing Temporal Recency for Scalable Discrete-Time Dynamic Graph Training** <a href="https://doi.org/10.14778/3801059.3801073" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Wenjie Huang, Rui Wang, Jing Cao, **<u>Tongya Zheng</u>**, Xinyu Wang, Mingli Song, Sai Wu, Chun Chen. \\
